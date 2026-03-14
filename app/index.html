@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HN Daily Signal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --parchment-50:  #faf8f5;
+      --parchment:     #e8e4dc;
+      --parchment-dark:#c8c4bc;
+      --ink:           #1a1a1a;
+      --ink-muted:     #555550;
+      --jade:          #00a86b;
+      --jade-dark:     #007a4e;
+      --white:         #ffffff;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--parchment-50);
+      color: var(--ink);
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 672px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+
+    .header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 8px;
+    }
+
+    .header h1 {
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    #search {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 13px;
+      border: 1px solid var(--parchment-dark);
+      background: var(--white);
+      padding: 3px 8px;
+      outline: none;
+      width: 160px;
+      border-radius: 0;
+      color: var(--ink);
+    }
+
+    #search:focus { border-color: var(--jade); }
+
+    #refresh-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 14px;
+      color: var(--jade);
+      padding: 0;
+      line-height: 1;
+    }
+
+    #refresh-btn:hover { color: var(--jade-dark); }
+
+    .meta-bar {
+      font-size: 12px;
+      color: var(--ink-muted);
+      font-family: 'IBM Plex Mono', monospace;
+      margin-bottom: 16px;
+      border-bottom: 1px solid var(--parchment);
+      padding-bottom: 12px;
+    }
+
+    #story-list { border-top: 1px solid var(--parchment); }
+
+    .story-row {
+      background: var(--white);
+      border-bottom: 1px solid var(--parchment);
+      cursor: pointer;
+      padding: 10px 12px;
+      border-left: 3px solid transparent;
+      transition: border-left-color 0.1s;
+    }
+
+    .story-row:hover,
+    .story-row.expanded {
+      border-left-color: var(--jade);
+    }
+
+    .story-row.hidden { display: none; }
+
+    .story-main {
+      display: flex;
+      gap: 10px;
+      align-items: baseline;
+    }
+
+    .story-rank {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--ink-muted);
+      min-width: 20px;
+      flex-shrink: 0;
+    }
+
+    .story-title {
+      font-size: 14px;
+      font-weight: 400;
+      flex: 1;
+    }
+
+    .story-score {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--ink-muted);
+      flex-shrink: 0;
+      white-space: nowrap;
+    }
+
+    .story-meta {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--ink-muted);
+      margin-top: 3px;
+      padding-left: 30px;
+    }
+
+    .story-expand {
+      padding-left: 30px;
+      margin-top: 8px;
+      display: none;
+      gap: 12px;
+    }
+
+    .story-row.expanded .story-expand { display: flex; }
+
+    .story-expand a {
+      font-size: 12px;
+      color: var(--jade);
+      text-decoration: none;
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    .story-expand a:hover { color: var(--jade-dark); text-decoration: underline; }
+
+    .state-msg {
+      padding: 32px 0;
+      color: var(--ink-muted);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>HN Daily Signal</h1>
+      <div class="header-controls">
+        <input id="search" type="text" placeholder="search titles…" autocomplete="off">
+        <button id="refresh-btn" title="Refresh">⟳</button>
+      </div>
+    </div>
+    <div class="meta-bar" id="meta-bar">loading…</div>
+    <div id="story-list"></div>
+  </div>
+  <script src="/app/app.js"></script>
+</body>
+</html>
