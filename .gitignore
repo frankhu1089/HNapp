@@ -1,0 +1,19 @@
+# ignore document folder
+/doc/
+
+# OS files
+.DS_Store
+
+# logs
+*.log
+
+# environment variables
+.env
+.env.local
+
+# node
+node_modules/
+
+# build outputs
+dist/
+build/
