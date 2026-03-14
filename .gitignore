@@ -1,5 +1,5 @@
 # ignore document folder
-/doc/
+/docs/
 
 # OS files
 .DS_Store
