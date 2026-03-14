@@ -1,4 +1,4 @@
-.PHONY: fetch normalize filter rank render daily view test
+.PHONY: fetch normalize filter rank render notify daily view test
 
 fetch:
 	pnpm run fetch
@@ -14,6 +14,9 @@ rank:
 
 render:
 	pnpm run render
+
+notify:
+	pnpm run notify
 
 daily:
 	pnpm run daily
