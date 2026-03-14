@@ -1,9 +1,10 @@
 // lib/types.ts
 
 export interface Config {
-  source: string
+  sources: string[]           // replaces source: string
   candidate_limit: number
   final_limit: number
+  seen_window_days: number    // NEW
   blocked_keywords: string[]
   ranking_weights: {
     score: number
@@ -11,7 +12,6 @@ export interface Config {
   }
 }
 
-// Exact HN API shape (fields optional — API is inconsistent)
 export interface RawHNItem {
   id?: number
   type?: string
@@ -37,7 +37,6 @@ export interface RawOutput {
   failed_ids: number[]
 }
 
-// Stable intermediate schema
 export interface NormalizedItem {
   id: number
   title: string
@@ -56,7 +55,6 @@ export interface NormalizedOutput {
   items: NormalizedItem[]
 }
 
-// After filtering — same shape, items are all valid
 export interface FilteredOutput {
   date: string
   source: string
@@ -71,11 +69,12 @@ export interface ExcludedItem {
   reason: string
 }
 
-// Final ranked output
 export interface RankedStory extends NormalizedItem {
   rank: number
   importance_score: number
   hn_link: string
+  signal_label: 'high score' | 'high discussion' | 'trending'
+  seen_before: boolean
 }
 
 export interface ProcessedOutput {
@@ -88,4 +87,15 @@ export interface ProcessedOutput {
     final_count: number
   }
   stories: RankedStory[]
+}
+
+// NEW: manifest of available dates for history navigation
+export interface Manifest {
+  dates: string[]   // sorted descending ["2026-03-15", "2026-03-14", ...]
+  latest: string
+}
+
+// NEW: seen IDs history store
+export interface SeenHistory {
+  [id: string]: string   // id → last_seen_date "YYYY-MM-DD"
 }

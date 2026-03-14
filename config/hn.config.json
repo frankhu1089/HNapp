@@ -1,7 +1,8 @@
 {
-  "source": "topstories",
+  "sources": ["topstories", "beststories"],
   "candidate_limit": 120,
   "final_limit": 15,
+  "seen_window_days": 3,
   "blocked_keywords": ["openclawd", "clawdbot", "moltbot", "龍蝦"],
   "ranking_weights": {
     "score": 0.6,
