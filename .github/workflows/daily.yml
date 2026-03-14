@@ -1,0 +1,55 @@
+# .github/workflows/daily.yml
+name: Daily HN Signal
+
+on:
+  schedule:
+    - cron: '0 23 * * 0-5'   # Sun–Fri 23:00 UTC = Mon–Sat 07:00 GMT+8
+  workflow_dispatch:           # enable manual trigger from GitHub UI
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Fetch stories
+        run: pnpm run fetch
+
+      - name: Normalize
+        run: pnpm run normalize
+
+      - name: Filter
+        run: pnpm run filter
+
+      - name: Rank
+        run: pnpm run rank
+
+      - name: Notify Telegram
+        run: pnpm run notify
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PAGES_URL: ${{ secrets.PAGES_URL }}
+
+      - name: Commit data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed/ data/normalized/ data/raw/ data/history/
+          git diff --cached --quiet || git commit -m "data: daily run $(date -u +%Y-%m-%d)"
+          git push
