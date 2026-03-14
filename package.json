@@ -1,0 +1,20 @@
+{
+  "name": "hn-signal-app",
+  "version": "0.1.0",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "fetch":     "tsx scripts/fetch_hn_data.ts",
+    "normalize": "tsx scripts/normalize_hn_data.ts",
+    "filter":    "tsx scripts/filter_hn_data.ts",
+    "rank":      "tsx scripts/rank_hn_data.ts",
+    "render":    "tsx scripts/render_cli.ts",
+    "daily":     "pnpm run fetch && pnpm run normalize && pnpm run filter && pnpm run rank && pnpm run render",
+    "view":      "npx serve . -p 3000",
+    "test":      "vitest run"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "source": "topstories",
+  "candidate_limit": 120,
+  "final_limit": 15,
+  "blocked_keywords": ["openclawd", "clawdbot", "moltbot", "龍蝦"],
+  "ranking_weights": {
+    "score": 0.6,
+    "descendants": 0.4
+  }
+}
