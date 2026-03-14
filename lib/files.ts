@@ -3,7 +3,7 @@ import { readFile, writeFile, mkdir } from 'fs/promises'
 import { resolve, dirname } from 'path'
 
 export function todayStr(): string {
-  return new Date().toISOString().slice(0, 10)
+  return new Date().toLocaleDateString('sv')
 }
 
 export async function writeJson(path: string, data: unknown): Promise<void> {

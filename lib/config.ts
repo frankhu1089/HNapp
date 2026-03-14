@@ -12,5 +12,9 @@ export async function loadConfig(path = 'config/hn.config.json'): Promise<Config
     if (cfg[key] == null) throw new Error(`Config missing required field: ${key}`)
   }
 
+  if (typeof cfg.ranking_weights?.score !== 'number' || typeof cfg.ranking_weights?.descendants !== 'number') {
+    throw new Error('Config ranking_weights must have numeric score and descendants fields')
+  }
+
   return cfg
 }

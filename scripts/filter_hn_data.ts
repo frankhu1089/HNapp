@@ -1,7 +1,7 @@
 // scripts/filter_hn_data.ts
 import { loadConfig } from '../lib/config.js'
 import { readJson, writeJson, todayStr } from '../lib/files.js'
-import { isBlocked } from '../lib/filters.js'
+import { isBlocked, findBlockedKeyword } from '../lib/filters.js'
 import { log, err } from '../lib/logger.js'
 import type { NormalizedOutput, FilteredOutput, ExcludedItem, NormalizedItem } from '../lib/types.js'
 
@@ -17,9 +17,7 @@ async function main() {
 
   for (const item of normalized.items) {
     if (isBlocked(item, cfg.blocked_keywords)) {
-      const matched = cfg.blocked_keywords.find(kw =>
-        [item.title, item.text, item.url].filter(Boolean).join(' ').toLowerCase().includes(kw.toLowerCase())
-      )
+      const matched = findBlockedKeyword(item, cfg.blocked_keywords)
       excluded.push({ id: item.id, title: item.title, reason: `blocked_keyword: ${matched}` })
     } else {
       kept.push(item)

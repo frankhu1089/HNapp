@@ -72,7 +72,7 @@ async function loadData() {
     render(allStories)
   } catch (e) {
     metaBar.textContent = '⚠ No data found. Run: make daily'
-    list.innerHTML = '<div class="state-msg">⚠ No data found. Run the pipeline first: make daily</div>'
+    list.innerHTML = '<div class="state-msg">⚠ No data found. Run: make daily</div>'
   }
 }
 

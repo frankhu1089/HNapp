@@ -19,3 +19,12 @@ export function isBlocked(item: NormalizedItem, keywords: string[]): boolean {
 
   return keywords.some(kw => blob.includes(kw.toLowerCase()))
 }
+
+// Returns the first matched blocked keyword, or undefined if none match
+export function findBlockedKeyword(item: NormalizedItem, keywords: string[]): string | undefined {
+  const blob = [item.title, item.text, item.url]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase()
+  return keywords.find(kw => blob.includes(kw.toLowerCase()))
+}

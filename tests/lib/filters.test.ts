@@ -71,7 +71,7 @@ describe('isBlocked', () => {
     expect(isBlocked({ ...clean, title: '我愛龍蝦' }, keywords)).toBe(true)
   })
 
-  it('does not false-positive on unrelated content', () => {
-    expect(isBlocked({ ...clean, title: 'Building a better web' }, keywords)).toBe(false)
+  it('matches keyword even when embedded in a longer word (substring match)', () => {
+    expect(isBlocked({ ...clean, title: 'superclawdbotapp' }, keywords)).toBe(true)
   })
 })
