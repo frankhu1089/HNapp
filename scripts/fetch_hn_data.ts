@@ -1,5 +1,5 @@
 // scripts/fetch_hn_data.ts
-import { fetchTopStoryIds, fetchItem } from '../lib/hn-api.js'
+import { fetchStoryIds, fetchItem } from '../lib/hn-api.js'
 import { loadConfig } from '../lib/config.js'
 import { writeJson, todayStr } from '../lib/files.js'
 import { log, warn, err } from '../lib/logger.js'
@@ -7,12 +7,16 @@ import type { RawOutput, RawHNItem } from '../lib/types.js'
 
 async function main() {
   const cfg = await loadConfig()
-  log(`Fetching top ${cfg.candidate_limit} story IDs from ${cfg.source}`)
+  log(`Sources: ${cfg.sources.join(', ')}  limit: ${cfg.candidate_limit}`)
 
-  const ids = await fetchTopStoryIds(cfg.candidate_limit)
-  log(`Got ${ids.length} IDs`)
+  // Fetch IDs from all sources concurrently, deduplicate
+  const allIdArrays = await Promise.all(
+    cfg.sources.map(source => fetchStoryIds(source, cfg.candidate_limit))
+  )
+  const merged = [...new Set(allIdArrays.flat())].slice(0, cfg.candidate_limit)
+  log(`Merged unique IDs: ${merged.length}`)
 
-  const results = await Promise.allSettled(ids.map(id => fetchItem(id)))
+  const results = await Promise.allSettled(merged.map(id => fetchItem(id)))
 
   const items: RawHNItem[] = []
   const failedIds: number[] = []
@@ -21,8 +25,8 @@ async function main() {
     if (result.status === 'fulfilled' && result.value) {
       items.push({ ...result.value, fetched_at: new Date().toISOString() })
     } else {
-      failedIds.push(ids[i])
-      warn(`Failed to fetch item ${ids[i]}`)
+      failedIds.push(merged[i])
+      warn(`Failed to fetch item ${merged[i]}`)
     }
   })
 
@@ -31,7 +35,7 @@ async function main() {
   const today = todayStr()
   const output: RawOutput = {
     date: today,
-    source: cfg.source,
+    source: cfg.sources.join('+'),
     candidate_limit: cfg.candidate_limit,
     fetched_at: new Date().toISOString(),
     items,

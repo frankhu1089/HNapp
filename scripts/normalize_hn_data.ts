@@ -20,7 +20,7 @@ async function main() {
 
   const output: NormalizedOutput = {
     date: today,
-    source: cfg.source,
+    source: cfg.sources.join('+'),
     items: normalized,
   }
 

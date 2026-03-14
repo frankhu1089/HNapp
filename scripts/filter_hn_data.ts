@@ -28,7 +28,7 @@ async function main() {
 
   const output: FilteredOutput = {
     date: today,
-    source: cfg.source,
+    source: cfg.sources.join('+'),
     raw_count: normalized.items.length,
     filtered_count: kept.length,
     items: kept,

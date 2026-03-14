@@ -23,6 +23,11 @@ export async function fetchTopStoryIds(limit: number): Promise<number[]> {
   return ids.slice(0, limit)
 }
 
+export async function fetchStoryIds(source: string, limit: number): Promise<number[]> {
+  const ids = await fetchWithRetry(`${BASE}/${source}.json`) as number[]
+  return ids.slice(0, limit)
+}
+
 export async function fetchItem(id: number): Promise<RawHNItem> {
   return await fetchWithRetry(`${BASE}/item/${id}.json`) as RawHNItem
 }
