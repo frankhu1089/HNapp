@@ -15,7 +15,17 @@ function escHtml(str) {
     .replace(/"/g, '&quot;')
 }
 
+// State
 let allStories = []
+let availableDates = []   // sorted descending
+let currentDateIndex = 0  // 0 = latest
+
+function updateNavButtons() {
+  document.getElementById('prev-btn').disabled = currentDateIndex >= availableDates.length - 1
+  document.getElementById('next-btn').disabled = currentDateIndex <= 0
+  const date = availableDates[currentDateIndex] ?? '–'
+  document.getElementById('current-date').textContent = date
+}
 
 function render(stories) {
   const list = document.getElementById('story-list')
@@ -28,10 +38,13 @@ function render(stories) {
 
   for (const s of stories) {
     const row = document.createElement('div')
-    row.className = 'story-row'
+    const seenClass = s.seen_before ? ' seen-before' : ''
+    row.className = `story-row${seenClass}`
     row.dataset.id = s.id
 
     const domain = s.domain ? ` · ${escHtml(s.domain)}` : ''
+    const label = s.signal_label ? ` · ${escHtml(s.signal_label)}` : ''
+    const seen = s.seen_before ? ' · seen' : ''
 
     row.innerHTML = `
       <div class="story-main">
@@ -39,27 +52,28 @@ function render(stories) {
         <span class="story-title">${escHtml(s.title)}</span>
         <span class="story-score">↑${s.score}</span>
       </div>
-      <div class="story-meta">💬 ${s.comments} · ${escHtml(s.author)} · ${relativeTime(s.time)}${domain}</div>
+      <div class="story-meta">💬 ${s.comments} · ${escHtml(s.author)} · ${relativeTime(s.time)}${domain}${label}${seen}</div>
       <div class="story-expand">
         ${s.url ? `<a href="${escHtml(s.url)}" target="_blank" rel="noopener">article ↗</a>` : ''}
         <a href="${escHtml(s.hn_link)}" target="_blank" rel="noopener">discuss ↗</a>
       </div>
     `
 
-    row.addEventListener('click', () => {
-      row.classList.toggle('expanded')
-    })
-
+    row.addEventListener('click', () => row.classList.toggle('expanded'))
     list.appendChild(row)
   }
 }
 
-async function loadData() {
+async function loadDate(dateStr) {
   const metaBar = document.getElementById('meta-bar')
   const list = document.getElementById('story-list')
 
   try {
-    const res = await fetch('/data/processed/latest.json')
+    const url = (currentDateIndex === 0)
+      ? '/data/processed/latest.json'
+      : `/data/processed/hn_daily_${dateStr}.json`
+
+    const res = await fetch(url)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const data = await res.json()
 
@@ -70,17 +84,61 @@ async function loadData() {
     metaBar.textContent = `${meta.date} · ${meta.final_count} stories · ${excluded} excluded · ${meta.source}`
 
     render(allStories)
+    updateNavButtons()
   } catch (e) {
     metaBar.textContent = '⚠ No data found. Run: make daily'
     list.innerHTML = '<div class="state-msg">⚠ No data found. Run: make daily</div>'
   }
 }
 
+async function loadManifest() {
+  try {
+    const res = await fetch('/data/processed/manifest.json')
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    const manifest = await res.json()
+    availableDates = manifest.dates ?? []
+  } catch {
+    availableDates = []
+  }
+}
+
+async function init() {
+  await loadManifest()
+  currentDateIndex = 0
+  updateNavButtons()
+  if (availableDates.length > 0) {
+    await loadDate(availableDates[0])
+  } else {
+    await loadDate(null)
+  }
+}
+
+// Navigation
+document.getElementById('prev-btn').addEventListener('click', async () => {
+  if (currentDateIndex < availableDates.length - 1) {
+    currentDateIndex++
+    await loadDate(availableDates[currentDateIndex])
+  }
+})
+
+document.getElementById('next-btn').addEventListener('click', async () => {
+  if (currentDateIndex > 0) {
+    currentDateIndex--
+    await loadDate(availableDates[currentDateIndex])
+  }
+})
+
+// Refresh — always jump to latest
+document.getElementById('refresh-btn').addEventListener('click', async () => {
+  await loadManifest()
+  currentDateIndex = 0
+  await loadDate(availableDates[0])
+})
+
+// Search
 document.getElementById('search').addEventListener('input', (e) => {
   const q = e.target.value.toLowerCase().trim()
   render(q ? allStories.filter(s => s.title.toLowerCase().includes(q)) : allStories)
 })
 
-document.getElementById('refresh-btn').addEventListener('click', loadData)
-
-loadData()
+init()
