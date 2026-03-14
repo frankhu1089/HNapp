@@ -16,3 +16,14 @@ export function sortByImportance(items: NormalizedItem[], weights: Weights): Nor
     return b.time - a.time
   })
 }
+
+export function computeSignalLabel(
+  item: NormalizedItem,
+  weights: Weights
+): 'high score' | 'high discussion' | 'trending' {
+  const scoreContrib = item.score * weights.score
+  const commentsContrib = item.comments * weights.descendants
+  if (scoreContrib > commentsContrib * 3) return 'high score'
+  if (commentsContrib > scoreContrib * 3) return 'high discussion'
+  return 'trending'
+}

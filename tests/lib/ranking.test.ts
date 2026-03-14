@@ -1,6 +1,6 @@
 // tests/lib/ranking.test.ts
 import { describe, it, expect } from 'vitest'
-import { computeScore, sortByImportance } from '../../lib/ranking'
+import { computeScore, sortByImportance, computeSignalLabel } from '../../lib/ranking'
 import type { NormalizedItem } from '../../lib/types'
 
 const item = (overrides: Partial<NormalizedItem>): NormalizedItem => ({
@@ -60,5 +60,31 @@ describe('sortByImportance', () => {
     ]
     const sorted = sortByImportance(items, weights)
     expect(sorted[0].id).toBe(2)  // newer wins
+  })
+})
+
+describe('computeSignalLabel', () => {
+  const weights = { score: 0.6, descendants: 0.4 }
+
+  it('returns "high score" when score contribution > 2x comments contribution', () => {
+    // score_contrib = 300 * 0.6 = 180, comments_contrib = 10 * 0.4 = 4
+    // 180 > 4 * 2 → high score
+    expect(computeSignalLabel(item({ score: 300, comments: 10 }), weights)).toBe('high score')
+  })
+
+  it('returns "high discussion" when comments contribution > 2x score contribution', () => {
+    // score_contrib = 10 * 0.6 = 6, comments_contrib = 200 * 0.4 = 80
+    // 80 > 6 * 2 → high discussion
+    expect(computeSignalLabel(item({ score: 10, comments: 200 }), weights)).toBe('high discussion')
+  })
+
+  it('returns "trending" when contributions are balanced', () => {
+    // score_contrib = 200 * 0.6 = 120, comments_contrib = 100 * 0.4 = 40
+    // neither > 2x the other
+    expect(computeSignalLabel(item({ score: 200, comments: 100 }), weights)).toBe('trending')
+  })
+
+  it('returns "trending" for zero-value item', () => {
+    expect(computeSignalLabel(item({ score: 0, comments: 0 }), weights)).toBe('trending')
   })
 })
