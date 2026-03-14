@@ -1,6 +1,6 @@
 // scripts/filter_hn_data.ts
 import { loadConfig } from '../lib/config.js'
-import { readJson, writeJson, writeWithLatest, todayStr } from '../lib/files.js'
+import { readJson, writeJson, todayStr } from '../lib/files.js'
 import { isBlocked } from '../lib/filters.js'
 import { log, err } from '../lib/logger.js'
 import type { NormalizedOutput, FilteredOutput, ExcludedItem, NormalizedItem } from '../lib/types.js'
@@ -36,7 +36,8 @@ async function main() {
     items: kept,
   }
 
-  const outPath = await writeWithLatest('data/processed', `hn_filtered_${today}.json`, output)
+  const outPath = `data/processed/hn_filtered_${today}.json`
+  await writeJson(outPath, output)
   log(`Written: ${outPath}`)
 
   if (excluded.length > 0) {

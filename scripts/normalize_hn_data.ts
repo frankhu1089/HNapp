@@ -2,6 +2,7 @@
 import { loadConfig } from '../lib/config.js'
 import { readJson, writeWithLatest, todayStr } from '../lib/files.js'
 import { normalizeItem } from '../lib/normalize.js'
+import { isValidRaw } from '../lib/filters.js'
 import { log, err } from '../lib/logger.js'
 import type { RawOutput, NormalizedOutput } from '../lib/types.js'
 
@@ -12,7 +13,10 @@ async function main() {
   const raw = await readJson<RawOutput>(`data/raw/hn_raw_${today}.json`)
   log(`Loaded ${raw.items.length} raw items`)
 
-  const normalized = raw.items.map(normalizeItem)
+  const validRaw = raw.items.filter(isValidRaw)
+  log(`Valid: ${validRaw.length}  Invalid/non-story: ${raw.items.length - validRaw.length}`)
+
+  const normalized = validRaw.map(normalizeItem)
 
   const output: NormalizedOutput = {
     date: today,
