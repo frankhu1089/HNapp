@@ -1,8 +1,8 @@
 {
   "meta": {
     "date": "2026-03-15",
-    "generated_at": "2026-03-14T16:34:43.576Z",
-    "source": "topstories",
+    "generated_at": "2026-03-14T17:51:36.352Z",
+    "source": "topstories+beststories",
     "raw_count": 119,
     "filtered_count": 119,
     "final_count": 15
@@ -14,13 +14,15 @@
       "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
       "domain": "blog.computationalcomplexity.org",
       "author": "speckx",
-      "score": 2026,
+      "score": 2027,
       "comments": 265,
       "time": 1773154216,
       "text": "",
       "rank": 1,
-      "importance_score": 1321.6,
-      "hn_link": "https://news.ycombinator.com/item?id=47324054"
+      "importance_score": 1322.2,
+      "hn_link": "https://news.ycombinator.com/item?id=47324054",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47350424,
@@ -28,13 +30,15 @@
       "url": "https://malus.sh",
       "domain": "malus.sh",
       "author": "microflash",
-      "score": 1405,
+      "score": 1407,
       "comments": 522,
       "time": 1773322924,
       "text": "<a href=\"https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_source_together_with_this_one_simple_trick&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_...</a><p><a href=\"https:&#x2F;&#x2F;malus.sh&#x2F;blog.html\" rel=\"nofollow\">https:&#x2F;&#x2F;malus.sh&#x2F;blog.html</a>",
       "rank": 2,
-      "importance_score": 1051.8,
-      "hn_link": "https://news.ycombinator.com/item?id=47350424"
+      "importance_score": 1053,
+      "hn_link": "https://news.ycombinator.com/item?id=47350424",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47362528,
@@ -42,13 +46,15 @@
       "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "domain": "github.com",
       "author": "shaicoleman",
-      "score": 1249,
-      "comments": 524,
+      "score": 1254,
+      "comments": 526,
       "time": 1773396956,
       "text": "<a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;linux&#x2F;comments&#x2F;1rshc1f&#x2F;i_traced_2_billion_in_nonprofit_grants_and_45&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;linux&#x2F;comments&#x2F;1rshc1f&#x2F;i_traced_2_b...</a>",
       "rank": 3,
-      "importance_score": 959,
-      "hn_link": "https://news.ycombinator.com/item?id=47362528"
+      "importance_score": 962.8,
+      "hn_link": "https://news.ycombinator.com/item?id=47362528",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47363754,
@@ -56,13 +62,15 @@
       "url": "https://www.canirun.ai/",
       "domain": "canirun.ai",
       "author": "ricardbejarano",
-      "score": 1328,
+      "score": 1348,
       "comments": 323,
       "time": 1773405970,
       "text": "",
       "rank": 4,
-      "importance_score": 926,
-      "hn_link": "https://news.ycombinator.com/item?id=47363754"
+      "importance_score": 938,
+      "hn_link": "https://news.ycombinator.com/item?id=47363754",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47367129,
@@ -70,13 +78,15 @@
       "url": "https://claude.com/blog/1m-context-ga",
       "domain": "claude.com",
       "author": "meetpateltech",
-      "score": 988,
-      "comments": 391,
+      "score": 1032,
+      "comments": 430,
       "time": 1773422341,
       "text": "",
       "rank": 5,
-      "importance_score": 749.2,
-      "hn_link": "https://news.ycombinator.com/item?id=47367129"
+      "importance_score": 791.2,
+      "hn_link": "https://news.ycombinator.com/item?id=47367129",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47359744,
@@ -84,13 +94,15 @@
       "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
       "domain": "samhenri.gold",
       "author": "MBCook",
-      "score": 967,
+      "score": 969,
       "comments": 371,
       "time": 1773366349,
       "text": "",
       "rank": 6,
-      "importance_score": 728.6,
-      "hn_link": "https://news.ycombinator.com/item?id=47359744"
+      "importance_score": 729.8,
+      "hn_link": "https://news.ycombinator.com/item?id=47359744",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47363584,
@@ -98,13 +110,15 @@
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "domain": "tomshardware.com",
       "author": "johnbarron",
-      "score": 651,
-      "comments": 571,
+      "score": 657,
+      "comments": 574,
       "time": 1773405069,
       "text": "",
       "rank": 7,
-      "importance_score": 619,
-      "hn_link": "https://news.ycombinator.com/item?id=47363584"
+      "importance_score": 623.8,
+      "hn_link": "https://news.ycombinator.com/item?id=47363584",
+      "signal_label": "trending",
+      "seen_before": true
     },
     {
       "id": 47356968,
@@ -112,13 +126,15 @@
       "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
       "domain": "grandforksherald.com",
       "author": "rectang",
-      "score": 729,
-      "comments": 379,
+      "score": 734,
+      "comments": 383,
       "time": 1773348951,
       "text": "",
       "rank": 8,
-      "importance_score": 589,
-      "hn_link": "https://news.ycombinator.com/item?id=47356968"
+      "importance_score": 593.6,
+      "hn_link": "https://news.ycombinator.com/item?id=47356968",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47366666,
@@ -126,13 +142,15 @@
       "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
       "domain": "ft.com",
       "author": "merksittich",
-      "score": 474,
-      "comments": 732,
+      "score": 480,
+      "comments": 740,
       "time": 1773420042,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;rP4cb\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;rP4cb</a> (text at bottom)<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978</a><p><a href=\"https:&#x2F;&#x2F;economictimes.indiatimes.com&#x2F;tech&#x2F;artificial-intelligence&#x2F;musk-ousts-more-xai-founders-as-ai-coding-effort-falters-ft-reports&#x2F;articleshow&#x2F;129560405.cms\" rel=\"nofollow\">https:&#x2F;&#x2F;economictimes.indiatimes.com&#x2F;tech&#x2F;artificial-intelli...</a><p><a href=\"https:&#x2F;&#x2F;futurism.com&#x2F;artificial-intelligence&#x2F;elon-musk-screwed-up-xai-rebuilding\" rel=\"nofollow\">https:&#x2F;&#x2F;futurism.com&#x2F;artificial-intelligence&#x2F;elon-musk-screw...</a>",
       "rank": 9,
-      "importance_score": 577.2,
-      "hn_link": "https://news.ycombinator.com/item?id=47366666"
+      "importance_score": 584,
+      "hn_link": "https://news.ycombinator.com/item?id=47366666",
+      "signal_label": "trending",
+      "seen_before": true
     },
     {
       "id": 47351371,
@@ -146,7 +164,9 @@
       "text": "",
       "rank": 10,
       "importance_score": 537.2,
-      "hn_link": "https://news.ycombinator.com/item?id=47351371"
+      "hn_link": "https://news.ycombinator.com/item?id=47351371",
+      "signal_label": "trending",
+      "seen_before": true
     },
     {
       "id": 47362613,
@@ -154,55 +174,15 @@
       "url": "https://tui.studio/",
       "domain": "tui.studio",
       "author": "mipselaer",
-      "score": 604,
+      "score": 607,
       "comments": 283,
       "time": 1773397965,
       "text": "",
       "rank": 11,
-      "importance_score": 475.6,
-      "hn_link": "https://news.ycombinator.com/item?id=47362613"
-    },
-    {
-      "id": 47349806,
-      "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
-      "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
-      "domain": "marketscreener.com",
-      "author": "JumpCrisscross",
-      "score": 427,
-      "comments": 456,
-      "time": 1773319485,
-      "text": "See also: <a href=\"https:&#x2F;&#x2F;alternativecreditinvestor.com&#x2F;2025&#x2F;10&#x2F;22&#x2F;us-banks-exposure-to-private-credit-hits-300bn&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;alternativecreditinvestor.com&#x2F;2025&#x2F;10&#x2F;22&#x2F;us-banks-ex...</a>",
-      "rank": 12,
-      "importance_score": 438.6,
-      "hn_link": "https://news.ycombinator.com/item?id=47349806"
-    },
-    {
-      "id": 47336100,
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "url": "https://channelsurfer.tv",
-      "domain": "channelsurfer.tv",
-      "author": "kilroy123",
-      "score": 563,
-      "comments": 166,
-      "time": 1773239697,
-      "text": "I know, it&#x27;s a very first-world problem. But in my house, we have a hard time deciding what to watch. Too many options!<p>So I made this to recreate Cable TV for YouTube. I made it so it runs in the browser. Quickly import your subscriptions in the browser via a bookmarklet. No accounts, no sign-ins. Just quickly import your data locally.",
-      "rank": 13,
-      "importance_score": 404.2,
-      "hn_link": "https://news.ycombinator.com/item?id=47336100"
-    },
-    {
-      "id": 47360730,
-      "title": "Vite 8.0 Is Out",
-      "url": "https://vite.dev/blog/announcing-vite8",
-      "domain": "vite.dev",
-      "author": "kothariji",
-      "score": 535,
-      "comments": 194,
-      "time": 1773376600,
-      "text": "",
-      "rank": 14,
-      "importance_score": 398.6,
-      "hn_link": "https://news.ycombinator.com/item?id=47360730"
+      "importance_score": 477.4,
+      "hn_link": "https://news.ycombinator.com/item?id=47362613",
+      "signal_label": "high score",
+      "seen_before": true
     },
     {
       "id": 47340203,
@@ -210,13 +190,63 @@
       "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
       "domain": "bbc.com",
       "author": "billybuckwheat",
-      "score": 301,
-      "comments": 517,
+      "score": 329,
+      "comments": 562,
       "time": 1773257866,
       "text": "",
+      "rank": 12,
+      "importance_score": 422.2,
+      "hn_link": "https://news.ycombinator.com/item?id=47340203",
+      "signal_label": "trending",
+      "seen_before": true
+    },
+    {
+      "id": 47336100,
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "url": "https://channelsurfer.tv",
+      "domain": "channelsurfer.tv",
+      "author": "kilroy123",
+      "score": 572,
+      "comments": 167,
+      "time": 1773239697,
+      "text": "I know, it&#x27;s a very first-world problem. But in my house, we have a hard time deciding what to watch. Too many options!<p>So I made this to recreate Cable TV for YouTube. I made it so it runs in the browser. Quickly import your subscriptions in the browser via a bookmarklet. No accounts, no sign-ins. Just quickly import your data locally.",
+      "rank": 13,
+      "importance_score": 410,
+      "hn_link": "https://news.ycombinator.com/item?id=47336100",
+      "signal_label": "high score",
+      "seen_before": true
+    },
+    {
+      "id": 47360730,
+      "title": "Vite 8.0 Is Out",
+      "url": "https://vite.dev/blog/announcing-vite8",
+      "domain": "vite.dev",
+      "author": "kothariji",
+      "score": 536,
+      "comments": 196,
+      "time": 1773376600,
+      "text": "",
+      "rank": 14,
+      "importance_score": 400,
+      "hn_link": "https://news.ycombinator.com/item?id=47360730",
+      "signal_label": "high score",
+      "seen_before": true
+    },
+    {
+      "id": 47367463,
+      "title": "John Carmack about open source and anti-AI activists",
+      "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+      "domain": "twitter.com",
+      "author": "tzury",
+      "score": 343,
+      "comments": 454,
+      "time": 1773424294,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;id_aa_carmack&#x2F;status&#x2F;2032460578669691171\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;id_aa_carmack&#x2F;status&#x2F;2032460578669691171</a>",
       "rank": 15,
       "importance_score": 387.4,
-      "hn_link": "https://news.ycombinator.com/item?id=47340203"
+      "hn_link": "https://news.ycombinator.com/item?id=47367463",
+      "signal_label": "trending",
+      "seen_before": false
     }
   ]
 }
