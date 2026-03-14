@@ -23,7 +23,7 @@ export function computeSignalLabel(
 ): 'high score' | 'high discussion' | 'trending' {
   const scoreContrib = item.score * weights.score
   const commentsContrib = item.comments * weights.descendants
-  if (scoreContrib > commentsContrib * 3) return 'high score'
-  if (commentsContrib > scoreContrib * 3) return 'high discussion'
+  if (scoreContrib > commentsContrib * 2) return 'high score'
+  if (commentsContrib > scoreContrib * 2) return 'high discussion'
   return 'trending'
 }

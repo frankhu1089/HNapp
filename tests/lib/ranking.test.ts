@@ -79,9 +79,9 @@ describe('computeSignalLabel', () => {
   })
 
   it('returns "trending" when contributions are balanced', () => {
-    // score_contrib = 200 * 0.6 = 120, comments_contrib = 100 * 0.4 = 40
-    // neither > 2x the other
-    expect(computeSignalLabel(item({ score: 200, comments: 100 }), weights)).toBe('trending')
+    // score_contrib = 100 * 0.6 = 60, comments_contrib = 100 * 0.4 = 40
+    // 60 > 40 * 2 (=80)? No. 40 > 60 * 2 (=120)? No → trending
+    expect(computeSignalLabel(item({ score: 100, comments: 100 }), weights)).toBe('trending')
   })
 
   it('returns "trending" for zero-value item', () => {
