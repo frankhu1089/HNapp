@@ -54,7 +54,7 @@ function render(stories) {
       </div>
       <div class="story-meta">💬 ${s.comments} · ${escHtml(s.author)} · ${relativeTime(s.time)}${domain}${label}${seen}</div>
       <div class="story-expand">
-        ${s.url ? `<a href="${escHtml(s.url)}" target="_blank" rel="noopener">article ↗</a>` : ''}
+        ${s.url && /^https?:\/\//i.test(s.url) ? `<a href="${escHtml(s.url)}" target="_blank" rel="noopener">article ↗</a>` : ''}
         <a href="${escHtml(s.hn_link)}" target="_blank" rel="noopener">discuss ↗</a>
       </div>
     `

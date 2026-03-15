@@ -8,6 +8,11 @@ function escapeMd(str: string): string {
   return String(str ?? '').replace(/[_*[\]()~`>#+=|{}.!\\-]/g, '\\$&')
 }
 
+// Inside MarkdownV2 inline link URLs, ) and \ must be escaped
+function escapeMdUrl(url: string): string {
+  return url.replace(/[)\\]/g, '\\$&')
+}
+
 function formatDayName(dateStr: string): string {
   const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
   return days[new Date(dateStr + 'T00:00:00').getDay()]
@@ -32,7 +37,7 @@ async function main() {
 
   const lines = top5.map((s, i) => {
     const title = escapeMd(s.title)
-    const url = s.url || s.hn_link
+    const url = escapeMdUrl(s.url || s.hn_link)
     return `${i + 1}\\. [${title}](${url}) — ↑${s.score} 💬${s.comments}`
   })
 
@@ -41,7 +46,7 @@ async function main() {
     '',
     ...lines,
     '',
-    `[View all ${meta.final_count} stories →](${pagesUrl})`,
+    `[View all ${meta.final_count} stories →](${escapeMdUrl(pagesUrl)})`,
   ].join('\n')
 
   const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
