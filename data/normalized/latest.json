@@ -8,8 +8,8 @@
       "url": "https://agelesslinux.org/",
       "domain": "agelesslinux.org",
       "author": "nateb2022",
-      "score": 334,
-      "comments": 220,
+      "score": 340,
+      "comments": 223,
       "time": 1773526226,
       "text": ""
     },
@@ -19,7 +19,7 @@
       "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
       "domain": "airbus.com",
       "author": "phasnox",
-      "score": 65,
+      "score": 67,
       "comments": 29,
       "time": 1773529824,
       "text": ""
@@ -41,9 +41,20 @@
       "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
       "domain": "s4dbrd.github.io",
       "author": "davikr",
-      "score": 28,
+      "score": 30,
       "comments": 5,
       "time": 1773533710,
+      "text": ""
+    },
+    {
+      "id": 47383059,
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "domain": "ayushtambde.com",
+      "author": "at2005",
+      "score": 11,
+      "comments": 0,
+      "time": 1773535915,
       "text": ""
     },
     {
@@ -58,36 +69,25 @@
       "text": ""
     },
     {
-      "id": 47325606,
-      "title": "From Braun T3 to Apple's iPod",
-      "url": "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod",
-      "domain": "drams.framer.website",
-      "author": "corpano",
-      "score": 14,
-      "comments": 2,
-      "time": 1773160692,
-      "text": ""
-    },
-    {
       "id": 47381011,
       "title": "Bumblebee queens breathe underwater to survive drowning",
       "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
       "domain": "smithsonianmag.com",
       "author": "1659447091",
-      "score": 64,
+      "score": 65,
       "comments": 16,
       "time": 1773521350,
       "text": ""
     },
     {
-      "id": 47383059,
-      "title": "Tree Search Distillation for Language Models Using PPO",
-      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "domain": "ayushtambde.com",
-      "author": "at2005",
-      "score": 10,
-      "comments": 0,
-      "time": 1773535915,
+      "id": 47325606,
+      "title": "From Braun T3 to Apple's iPod",
+      "url": "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod",
+      "domain": "drams.framer.website",
+      "author": "corpano",
+      "score": 15,
+      "comments": 2,
+      "time": 1773160692,
       "text": ""
     },
     {
@@ -96,7 +96,7 @@
       "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
       "domain": "atgreen.github.io",
       "author": "anonzzzies",
-      "score": 32,
+      "score": 33,
       "comments": 2,
       "time": 1773530559,
       "text": ""
@@ -118,8 +118,8 @@
       "url": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
       "domain": "arnika.org",
       "author": "microflash",
-      "score": 84,
-      "comments": 46,
+      "score": 86,
+      "comments": 51,
       "time": 1773529205,
       "text": "<a href=\"https:&#x2F;&#x2F;arnika.org&#x2F;en&#x2F;publications&#x2F;download&#x2F;2128_f40ae4eb2e63e4dc3205035fb376d8e3\" rel=\"nofollow\">https:&#x2F;&#x2F;arnika.org&#x2F;en&#x2F;publications&#x2F;download&#x2F;2128_f40ae4eb2e6...</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;feb&#x2F;18&#x2F;hazardous-substances-headphones\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;feb&#x2F;18&#x2F;hazardous...</a>"
     },
@@ -129,9 +129,20 @@
       "url": "https://www.anthropic.com/news/claude-partner-network",
       "domain": "anthropic.com",
       "author": "gmays",
-      "score": 87,
-      "comments": 33,
+      "score": 89,
+      "comments": 35,
       "time": 1773523422,
+      "text": ""
+    },
+    {
+      "id": 47374924,
+      "title": "Mathematics Distillation Challenge – Equational Theories",
+      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+      "domain": "terrytao.wordpress.com",
+      "author": "picafrost",
+      "score": 7,
+      "comments": 0,
+      "time": 1773481117,
       "text": ""
     },
     {
@@ -140,7 +151,7 @@
       "url": "https://github.com/groverburger/grobpaint",
       "domain": "github.com",
       "author": "__grob",
-      "score": 17,
+      "score": 18,
       "comments": 1,
       "time": 1773528088,
       "text": ""
@@ -151,7 +162,7 @@
       "url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
       "domain": "stigmollerhansen.dk",
       "author": "ammerfest",
-      "score": 44,
+      "score": 45,
       "comments": 16,
       "time": 1773525768,
       "text": ""
@@ -173,8 +184,8 @@
       "url": "https://github.com/EdoStra/Marketing-for-Founders",
       "domain": "github.com",
       "author": "jimsojim",
-      "score": 120,
-      "comments": 37,
+      "score": 121,
+      "comments": 38,
       "time": 1773516940,
       "text": ""
     },
@@ -184,7 +195,7 @@
       "url": "https://www.libraryofshortstories.com/",
       "domain": "libraryofshortstories.com",
       "author": "debo_",
-      "score": 43,
+      "score": 44,
       "comments": 1,
       "time": 1773519379,
       "text": ""
@@ -195,8 +206,8 @@
       "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
       "domain": "purplesyringa.moe",
       "author": "signa11",
-      "score": 98,
-      "comments": 56,
+      "score": 101,
+      "comments": 57,
       "time": 1773504083,
       "text": ""
     },
@@ -212,14 +223,14 @@
       "text": ""
     },
     {
-      "id": 47374924,
-      "title": "Mathematics Distillation Challenge – Equational Theories",
-      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-      "domain": "terrytao.wordpress.com",
-      "author": "picafrost",
-      "score": 5,
-      "comments": 0,
-      "time": 1773481117,
+      "id": 47381736,
+      "title": "Allow me to get to know you, mistakes and all",
+      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "domain": "sebi.io",
+      "author": "sebi_io",
+      "score": 15,
+      "comments": 1,
+      "time": 1773525827,
       "text": ""
     },
     {
@@ -256,24 +267,13 @@
       "text": ""
     },
     {
-      "id": 47381736,
-      "title": "Allow me to get to know you, mistakes and all",
-      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "domain": "sebi.io",
-      "author": "sebi_io",
-      "score": 13,
-      "comments": 0,
-      "time": 1773525827,
-      "text": ""
-    },
-    {
       "id": 47376767,
       "title": "Montana passes Right to Compute act (2025)",
       "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
       "domain": "westernmt.news",
       "author": "bilsbie",
-      "score": 245,
-      "comments": 207,
+      "score": 246,
+      "comments": 208,
       "time": 1773496798,
       "text": ""
     },
@@ -300,17 +300,6 @@
       "text": ""
     },
     {
-      "id": 47320921,
-      "title": "Making your JITted Code known: Let me count the ways",
-      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
-      "domain": "wakelift.de",
-      "author": "lizmat",
-      "score": 9,
-      "comments": 1,
-      "time": 1773135079,
-      "text": ""
-    },
-    {
       "id": 47374796,
       "title": "Starlink militarization and its impact on global strategic stability (2023)",
       "url": "https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/",
@@ -322,12 +311,23 @@
       "text": ""
     },
     {
+      "id": 47320921,
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "domain": "wakelift.de",
+      "author": "lizmat",
+      "score": 9,
+      "comments": 1,
+      "time": 1773135079,
+      "text": ""
+    },
+    {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
       "domain": "claude.com",
       "author": "meetpateltech",
-      "score": 1121,
+      "score": 1122,
       "comments": 483,
       "time": 1773422341,
       "text": ""
@@ -438,8 +438,19 @@
       "domain": "support.claude.com",
       "author": "weldu",
       "score": 214,
-      "comments": 134,
+      "comments": 135,
       "time": 1773518934,
+      "text": ""
+    },
+    {
+      "id": 47383580,
+      "title": "The war on Iran is about China",
+      "url": "https://sharptext.net/2026/loud-and-clear/",
+      "domain": "sharptext.net",
+      "author": "qwikhost",
+      "score": 4,
+      "comments": 0,
+      "time": 1773540548,
       "text": ""
     },
     {
@@ -449,7 +460,7 @@
       "domain": "bbc.com",
       "author": "1659447091",
       "score": 133,
-      "comments": 188,
+      "comments": 189,
       "time": 1773216495,
       "text": ""
     },
@@ -492,8 +503,8 @@
       "url": "https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/",
       "domain": "washingtonian.com",
       "author": "kklisura",
-      "score": 38,
-      "comments": 13,
+      "score": 39,
+      "comments": 14,
       "time": 1773519521,
       "text": ""
     },
@@ -509,24 +520,13 @@
       "text": ""
     },
     {
-      "id": 47380465,
-      "title": "GIMP 3.2 released",
-      "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
-      "domain": "gimp.org",
-      "author": "F3nd0",
-      "score": 206,
-      "comments": 57,
-      "time": 1773517885,
-      "text": ""
-    },
-    {
       "id": 47348733,
       "title": "Coding after coders: The end of computer programming as we know it?",
       "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
       "domain": "nytimes.com",
       "author": "angst",
       "score": 207,
-      "comments": 397,
+      "comments": 398,
       "time": 1773311385,
       "text": ""
     },
@@ -539,6 +539,17 @@
       "score": 145,
       "comments": 61,
       "time": 1773303752,
+      "text": ""
+    },
+    {
+      "id": 47380465,
+      "title": "GIMP 3.2 released",
+      "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
+      "domain": "gimp.org",
+      "author": "F3nd0",
+      "score": 206,
+      "comments": 58,
+      "time": 1773517885,
       "text": ""
     },
     {
@@ -581,7 +592,7 @@
       "domain": "lr0.org",
       "author": "ghd_",
       "score": 143,
-      "comments": 283,
+      "comments": 285,
       "time": 1773443677,
       "text": ""
     },
@@ -641,17 +652,6 @@
       "text": ""
     },
     {
-      "id": 47378787,
-      "title": "In Praise of Stupid Questions",
-      "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
-      "domain": "mathenchant.wordpress.com",
-      "author": "ibobev",
-      "score": 27,
-      "comments": 5,
-      "time": 1773508338,
-      "text": ""
-    },
-    {
       "id": 47318386,
       "title": "A Survival Guide to a PhD (2016)",
       "url": "http://karpathy.github.io/2016/09/07/phd/",
@@ -660,6 +660,17 @@
       "score": 171,
       "comments": 101,
       "time": 1773109011,
+      "text": ""
+    },
+    {
+      "id": 47378787,
+      "title": "In Praise of Stupid Questions",
+      "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
+      "domain": "mathenchant.wordpress.com",
+      "author": "ibobev",
+      "score": 27,
+      "comments": 5,
+      "time": 1773508338,
       "text": ""
     },
     {
@@ -696,17 +707,6 @@
       "text": "Sharing a friends first-ever Rails application, dedicated to Arabic learning, from 0 to 1. Pulls language learning methods from Anki, comprehensible input and more."
     },
     {
-      "id": 47380270,
-      "title": "MCP is dead; long live MCP",
-      "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-      "domain": "chrlschn.dev",
-      "author": "CharlieDigital",
-      "score": 104,
-      "comments": 105,
-      "time": 1773516733,
-      "text": ""
-    },
-    {
       "id": 47330946,
       "title": "Recursive Problems Benefit from Recursive Solutions",
       "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
@@ -715,6 +715,17 @@
       "score": 43,
       "comments": 26,
       "time": 1773193603,
+      "text": ""
+    },
+    {
+      "id": 47380270,
+      "title": "MCP is dead; long live MCP",
+      "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
+      "domain": "chrlschn.dev",
+      "author": "CharlieDigital",
+      "score": 104,
+      "comments": 105,
+      "time": 1773516733,
       "text": ""
     },
     {
@@ -735,7 +746,7 @@
       "domain": "spiegel.de",
       "author": "sebastian_z",
       "score": 144,
-      "comments": 46,
+      "comments": 47,
       "time": 1773497298,
       "text": ""
     },
@@ -762,14 +773,14 @@
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;rP4cb\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;rP4cb</a> (text at bottom)<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;elonmusk&#x2F;status&#x2F;2032201568335044978</a><p><a href=\"https:&#x2F;&#x2F;economictimes.indiatimes.com&#x2F;tech&#x2F;artificial-intelligence&#x2F;musk-ousts-more-xai-founders-as-ai-coding-effort-falters-ft-reports&#x2F;articleshow&#x2F;129560405.cms\" rel=\"nofollow\">https:&#x2F;&#x2F;economictimes.indiatimes.com&#x2F;tech&#x2F;artificial-intelli...</a><p><a href=\"https:&#x2F;&#x2F;futurism.com&#x2F;artificial-intelligence&#x2F;elon-musk-screwed-up-xai-rebuilding\" rel=\"nofollow\">https:&#x2F;&#x2F;futurism.com&#x2F;artificial-intelligence&#x2F;elon-musk-screw...</a>"
     },
     {
-      "id": 47381473,
-      "title": "How \"Hardwired\" AI Will Destroy Nvidia's Empire and Change the World",
-      "url": "https://medium.com/@mokrasar/the-last-chip-how-hardwired-ai-will-destroy-nvidias-empire-and-change-the-world-8da20571e706",
-      "domain": "medium.com",
-      "author": "amelius",
-      "score": 14,
-      "comments": 11,
-      "time": 1773524196,
+      "id": 47320158,
+      "title": "Using Thunderbird for RSS",
+      "url": "https://rubenerd.com/using-thunderbird-for-rss/",
+      "domain": "rubenerd.com",
+      "author": "ingve",
+      "score": 116,
+      "comments": 36,
+      "time": 1773128339,
       "text": ""
     },
     {
@@ -784,36 +795,14 @@
       "text": "Hi HN, I built Ink, a full stack deployment platform where the primary users are AI agents, not humans.<p>We all know AI can write code, but deploying them still requires a human to wire it up: hosting, databases, DNS, and secrets. Ink gives agents those tools directly.<p>The agent calls &quot;deploy&quot; and the platform auto-detects the framework, builds it, deploys it, and returns a live URL at *.ml.ink. Here&#x27;s a demo with Claude Code: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F6ZM_RrIaC0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F6ZM_RrIaC0</a>.<p>What Ink does that I haven&#x27;t seen elsewhere:<p>- One agent skill for compute + databases + DNS + secrets + domains + usage + metrics + logs + scaling. The agent doesn&#x27;t juggle separate providers — one account, one auth, one set of tools.<p>- DNS zone delegation. Delegate a zone once (e.g. dev.acme.com) and agents create any subdomain instantly — no manual adding DNS records each time, no propagation wait.<p>- Multiple agents and humans share one workspace and collaborate on projects. I envision a future where many agents collaborate together. I&#x27;m working on a cool demo to share.<p>- Built-in git hosting. Agents push code and deploy without the human setting up GitHub first. No external account needed. (Of course if you&#x27;re a developer you can store code on GitHub — that&#x27;s the recommended pattern.)<p>You also have what you&#x27;d expect:\n- UI with service observability designed for humans (logs, metrics, DNS).\n- GitHub integration — push triggers auto-redeploy.\n- Per-minute billing for CPU, memory, and egress. No per-seat, no per-agent.\n- Error responses designed for LLMs. Structured reason codes with suggested next actions, not raw stack traces. When a deploy fails the agent reads the log, fixes it, and redeploys autonomously.<p>Try: <a href=\"https:&#x2F;&#x2F;ml.ink\" rel=\"nofollow\">https:&#x2F;&#x2F;ml.ink</a>\nFree $2 trial credits, no credit card. In case you want to try further here&#x27;s 20% code &quot;GOODFORTUNE&quot;."
     },
     {
-      "id": 47320158,
-      "title": "Using Thunderbird for RSS",
-      "url": "https://rubenerd.com/using-thunderbird-for-rss/",
-      "domain": "rubenerd.com",
-      "author": "ingve",
-      "score": 116,
-      "comments": 36,
-      "time": 1773128339,
-      "text": ""
-    },
-    {
-      "id": 47382567,
-      "title": "UK Society of Authors launches logo to identify books written by humans not AI",
-      "url": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
-      "domain": "theguardian.com",
-      "author": "throwaway81523",
-      "score": 4,
-      "comments": 0,
-      "time": 1773531939,
-      "text": ""
-    },
-    {
-      "id": 47332493,
-      "title": "Michael Faraday: Scientist and Nonconformist (1996)",
-      "url": "http://silas.psfc.mit.edu/Faraday/",
-      "domain": "silas.psfc.mit.edu",
-      "author": "o4c",
-      "score": 35,
-      "comments": 7,
-      "time": 1773212965,
+      "id": 47381473,
+      "title": "How \"Hardwired\" AI Will Destroy Nvidia's Empire and Change the World",
+      "url": "https://medium.com/@mokrasar/the-last-chip-how-hardwired-ai-will-destroy-nvidias-empire-and-change-the-world-8da20571e706",
+      "domain": "medium.com",
+      "author": "amelius",
+      "score": 14,
+      "comments": 11,
+      "time": 1773524196,
       "text": ""
     },
     {
@@ -826,6 +815,17 @@
       "comments": 69,
       "time": 1773408160,
       "text": "Hey HN! We&#x27;re Ashwin and Akshay from Spine AI (<a href=\"https:&#x2F;&#x2F;www.getspine.ai\">https:&#x2F;&#x2F;www.getspine.ai</a>). Spine Swarm is a multi-agent system that works on an infinite visual canvas to complete complex non-coding projects: competitive analysis, financial modeling, SEO audits, pitch decks, interactive prototypes, and more. Here&#x27;s a video of it in action: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=R_2-ggpZz0Q\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=R_2-ggpZz0Q</a>.<p>We&#x27;ve been friends for over 13 years. We took our first ML course together at NTU, in a part of campus called North Spine, which is where the name comes from. We went through YC in S23 and have spent about 3 years building Spine across many product iterations.<p>The core idea: chat is the wrong interface for complex AI work. It&#x27;s a linear thread, and real projects aren&#x27;t linear. Sure, you can ask a chatbot to reference the financial model from earlier in the thread, or run research and market sizing together, but you&#x27;re trusting the model to juggle that context implicitly. There&#x27;s no way to see how it&#x27;s connecting the pieces, no way to correct one step without rerunning everything, and no way to branch off and explore two strategies side by side. ChatGPT was a demo that blew up, and chat stuck around as the default interface, not because it&#x27;s the right abstraction. We thought humans and agents needed a real workspace where the structure of the work is explicit and user-controllable, not hidden inside a context window.<p>So we built an infinite visual canvas where you think in blocks instead of threads. Each block is our abstraction on top of AI models. There are dedicated block types for LLM calls, image generation, web browsing, apps, slides, spreadsheets, and more. Think of them as Lego bricks for AI workflows: each one does something specific, but they can be snapped together and composed in many different ways. You can connect any block to any other block, and that connection guarantees the passing of context regardless of block type. The whole system is model-agnostic, so in a single workflow you can go from an OpenAI LLM call, to an image generation mode like Nano Banana Pro, to Claude generating an interactive app, each block using whatever model fits best. Multiple blocks can fan out from the same input, analyzing it in different ways with different models, then feed their outputs into a downstream block that synthesizes the results.<p>The first version of the canvas was fully manual. Users entered prompts, chose models, ran blocks, and made connections themselves. It clicked with founders and product managers because they could branch in different directions from the same starting point: take a product idea and generate a prototype in one branch, a PRD in another, a competitive critique in a third, and a pitch deck in a fourth, all sharing the same upstream context. But new users didn&#x27;t want to learn the interface. They kept asking us to build a chat layer that would generate and connect blocks on their behalf, to replicate the way we were using the tool. So we built that, and in doing so discovered something we didn&#x27;t expect: the agents were capable of running autonomously for hours, producing complete deliverables. It turned out agents could run longer and keep their context windows clean by delegating work to blocks and storing intermediary context on the canvas, rather than holding everything in a single context window.<p>Here&#x27;s how it works now. When you submit a task, a central orchestrator decomposes it into subtasks and delegates each to specialized persona agents. These agents operate on the canvas blocks and can override default settings, primarily the model and prompt, to fit each subtask. Agents pick the best model for each block and sometimes run the same block with multiple models to compare and synthesize outputs. Multiple agents work in parallel when their subtasks don&#x27;t have dependencies, and downstream agents automatically receive context from upstream work. The user doesn&#x27;t configure any of this. You can also dispatch multiple tasks at once and the system will queue dependent ones or start independent ones immediately.<p>Agents aren&#x27;t fully autonomous by default. Any agent can pause execution and ask the user for clarification or feedback before continuing, which keeps the human in the loop where it matters. And once agents have produced output, you can select a subset of blocks on the canvas and iterate on them through the chat without rerunning the entire workflow.<p>The canvas gives agents something that filesystems and message-passing don&#x27;t: a persistent, structured representation of the entire project that any agent can read and contribute to at any point. In typical multi-agent systems, context degrades as it passes between agents. The canvas addresses this because agents store intermediary results in blocks rather than trying to hold everything in memory, and they leave explicit structured handoffs designed to be consumed efficiently by the next agent in the chain. Every step is also fully auditable, so you can trace exactly how each agent arrived at its conclusions.<p>We ran benchmarks to validate what we were seeing. On Google DeepMind&#x27;s DeepSearchQA, which is 900 questions spanning 17 fields, each structured as a causal chain where each step depends on completing the previous one, Spine Swarm scored 87.6% on the full dataset with zero human intervention. For the benchmark we used a subset of block types relevant to the questions (LLM calls, web browsing, table) and removed irrelevant ones like document, spreadsheet, and slide generation. We also disabled human clarification so agents ran fully independently. The agents were not just auditable but also state of the art. The auditability also exposed actual errors in an older benchmark (GAIA Level 3), cases where the expected answer was wrong or ambiguous, which you&#x27;d never catch with a black-box pipeline. We detail the methodology, architecture, and benchmark errors in the full writeup: <a href=\"https:&#x2F;&#x2F;blog.getspine.ai&#x2F;spine-swarm-hits-1-on-gaia-level-3-and-google-deepmind-deepsearchqa\">https:&#x2F;&#x2F;blog.getspine.ai&#x2F;spine-swarm-hits-1-on-gaia-level-3-...</a><p>Benchmarks measure accuracy on closed-ended questions. Turns out the same architecture also leads to better open-ended outputs like decks, reports, and prototypes with minimal supervision. We&#x27;ve seen early users split into two camps: some watch the agents work and jump in to redirect mid-flow, others queue a task and come back to a finished deliverable. Both work because the canvas preserves the full chain of work, so you can audit or intervene whenever you want.<p>A good first task to try: give it your website URL and ask for a full SEO analysis, competitive landscape, and a prioritized growth roadmap with a slide deck. You&#x27;ll see multiple agents spin up on the canvas simultaneously. People have also used it for fundraising pitch decks with financial models, prototyping features from screenshots and PRDs, competitive analysis reports and deep-dive learning plans that research a topic from multiple angles and produce structured material you can explore further.<p>Pricing is usage-based credits tied to block usage and the underlying models used. Agents tend to use more credits than manual workflows because they&#x27;re tuned to get you the best possible outcome, which means they pick the best blocks and do more work. Details here: <a href=\"https:&#x2F;&#x2F;www.getspine.ai&#x2F;pricing\">https:&#x2F;&#x2F;www.getspine.ai&#x2F;pricing</a>. There&#x27;s a free tier, and one honest caveat: we sized it to let you try a real task, but tasks vary in complexity. If you run out before you&#x27;ve had a proper chance to explore, email us at founders@getspine.ai and we&#x27;ll work with you.<p>We&#x27;d love your feedback on the experience: what worked, what didn&#x27;t, and where it fell short. We&#x27;re also curious how others here approach complex, multi-step AI work beyond coding. What tools are you using, and what breaks first? We&#x27;ll be in the comments all day."
+    },
+    {
+      "id": 47332493,
+      "title": "Michael Faraday: Scientist and Nonconformist (1996)",
+      "url": "http://silas.psfc.mit.edu/Faraday/",
+      "domain": "silas.psfc.mit.edu",
+      "author": "o4c",
+      "score": 35,
+      "comments": 7,
+      "time": 1773212965,
+      "text": ""
     },
     {
       "id": 47341432,
@@ -850,14 +850,14 @@
       "text": "I know, it&#x27;s a very first-world problem. But in my house, we have a hard time deciding what to watch. Too many options!<p>So I made this to recreate Cable TV for YouTube. I made it so it runs in the browser. Quickly import your subscriptions in the browser via a bookmarklet. No accounts, no sign-ins. Just quickly import your data locally."
     },
     {
-      "id": 47378399,
-      "title": "UBI as a productivity dividend",
-      "url": "https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity",
-      "domain": "scottsantens.substack.com",
-      "author": "2noame",
-      "score": 108,
-      "comments": 228,
-      "time": 1773506222,
+      "id": 47382567,
+      "title": "UK Society of Authors launches logo to identify books written by humans not AI",
+      "url": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
+      "domain": "theguardian.com",
+      "author": "throwaway81523",
+      "score": 4,
+      "comments": 0,
+      "time": 1773531939,
       "text": ""
     },
     {
@@ -869,6 +869,17 @@
       "score": 100,
       "comments": 30,
       "time": 1773152301,
+      "text": ""
+    },
+    {
+      "id": 47378399,
+      "title": "UBI as a productivity dividend",
+      "url": "https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity",
+      "domain": "scottsantens.substack.com",
+      "author": "2noame",
+      "score": 108,
+      "comments": 228,
+      "time": 1773506222,
       "text": ""
     },
     {
@@ -905,17 +916,6 @@
       "text": ""
     },
     {
-      "id": 47380405,
-      "title": "2026 tech layoffs reach 45,000 in March",
-      "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
-      "domain": "technode.global",
-      "author": "ninadwrites",
-      "score": 152,
-      "comments": 127,
-      "time": 1773517609,
-      "text": ""
-    },
-    {
       "id": 47367526,
       "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
       "url": "https://github.com/Compresr-ai/Context-Gateway",
@@ -927,6 +927,17 @@
       "text": "We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window.<p>Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=-vFZ6MPrwjw#t=9s\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=-vFZ6MPrwjw#t=9s</a>.<p>Motivation: Agents are terrible at managing context. A single file read or grep can dump thousands of tokens into the window, most of it noise. This isn&#x27;t just expensive — it actively degrades quality. Long-context benchmarks consistently show steep accuracy drops as context grows (OpenAI&#x27;s GPT-5.4 eval goes from 97.2% at 32k to 36.6% at 1M <a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;introducing-gpt-5-4&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;introducing-gpt-5-4&#x2F;</a>).<p>Our solution uses small language models (SLMs): we look at model internals and train classifiers to detect which parts of the context carry the most signal. When a tool returns output, we compress it conditioned on the intent of the tool call—so if the agent called grep looking for error handling patterns, the SLM keeps the relevant matches and strips the rest.<p>If the model later needs something we removed, it calls expand() to fetch the original output. We also do background compaction at 85% window capacity and lazy-load tool descriptions so the model only sees tools relevant to the current step.<p>The proxy also gives you spending caps, a dashboard for tracking running and past sessions, and Slack pings when an agent is sitting there waiting on you.<p>Repo is here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;Compresr-ai&#x2F;Context-Gateway\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Compresr-ai&#x2F;Context-Gateway</a>. You can try it with:<p><pre><code>  curl -fsSL https:&#x2F;&#x2F;compresr.ai&#x2F;api&#x2F;install | sh\n</code></pre>\nHappy to go deep on any of it: the compression model, how the lazy tool loading works, or anything else about the gateway. Try it out and let us know how you like it!"
     },
     {
+      "id": 47380405,
+      "title": "2026 tech layoffs reach 45,000 in March",
+      "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
+      "domain": "technode.global",
+      "author": "ninadwrites",
+      "score": 152,
+      "comments": 127,
+      "time": 1773517609,
+      "text": ""
+    },
+    {
       "id": 47356017,
       "title": "An old photo of a large BBS (2022)",
       "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
@@ -935,17 +946,6 @@
       "score": 298,
       "comments": 188,
       "time": 1773344495,
-      "text": ""
-    },
-    {
-      "id": 47383558,
-      "title": "US solar installations fall as Trump policies hit sector",
-      "url": "https://www.semafor.com/article/03/12/2026/us-solar-installations-fall-as-trump-policies-hit-sector",
-      "domain": "semafor.com",
-      "author": "KnuthIsGod",
-      "score": 6,
-      "comments": 0,
-      "time": 1773540389,
       "text": ""
     },
     {
@@ -971,17 +971,6 @@
       "text": "I discovered this project because all-of-a-sudden Logi Options Plus software updater started taking 40-60% of my Intel Macbook Pro until I killed the process (of course it restarts). In my searches I ended up at a reddit discussion where I found other people with same issues.<p>I&#x27;m a minor contributor to this project but it aims to reduce&#x2F;eliminate the need to use Logitech proprietary software and telemetry. We could use help if other people are interested.<p>Please check out the github link for more detailed motivations (eliminating telemetry) as a part of this project.   Here is link: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;TomBadash&#x2F;MouseControl\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;TomBadash&#x2F;MouseControl</a>"
     },
     {
-      "id": 47381489,
-      "title": "ByteDance suspends launch of Seedance 2.0 after copyright disputes",
-      "url": "https://www.reuters.com/technology/bytedance-suspends-launch-video-ai-model-after-copyright-disputes-information-2026-03-14/",
-      "domain": "reuters.com",
-      "author": "amrrs",
-      "score": 8,
-      "comments": 0,
-      "time": 1773524289,
-      "text": ""
-    },
-    {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
@@ -1004,14 +993,25 @@
       "text": ""
     },
     {
-      "id": 47378241,
-      "title": "Show HN: KeyID – Free email and phone infrastructure for AI agents (MCP)",
-      "url": "https://keyid.ai/",
-      "domain": "keyid.ai",
-      "author": "vasilyt",
+      "id": 47381489,
+      "title": "ByteDance suspends launch of Seedance 2.0 after copyright disputes",
+      "url": "https://www.reuters.com/technology/bytedance-suspends-launch-video-ai-model-after-copyright-disputes-information-2026-03-14/",
+      "domain": "reuters.com",
+      "author": "amrrs",
       "score": 8,
-      "comments": 8,
-      "time": 1773505400,
+      "comments": 0,
+      "time": 1773524289,
+      "text": ""
+    },
+    {
+      "id": 47383558,
+      "title": "US solar installations fall as Trump policies hit sector",
+      "url": "https://www.semafor.com/article/03/12/2026/us-solar-installations-fall-as-trump-policies-hit-sector",
+      "domain": "semafor.com",
+      "author": "KnuthIsGod",
+      "score": 6,
+      "comments": 0,
+      "time": 1773540389,
       "text": ""
     },
     {
@@ -1023,6 +1023,17 @@
       "score": 337,
       "comments": 133,
       "time": 1773426852,
+      "text": ""
+    },
+    {
+      "id": 47378241,
+      "title": "Show HN: KeyID – Free email and phone infrastructure for AI agents (MCP)",
+      "url": "https://keyid.ai/",
+      "domain": "keyid.ai",
+      "author": "vasilyt",
+      "score": 8,
+      "comments": 8,
+      "time": 1773505400,
       "text": ""
     },
     {
@@ -1081,17 +1092,6 @@
       "text": ""
     },
     {
-      "id": 47366011,
-      "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
-      "url": "https://www.runcaptain.com/",
-      "domain": "runcaptain.com",
-      "author": "CMLewis",
-      "score": 54,
-      "comments": 35,
-      "time": 1773416733,
-      "text": "Hi HN, we’re Lewis and Edgar, building Captain to simplify unstructured data search (<a href=\"https:&#x2F;&#x2F;runcaptain.com\">https:&#x2F;&#x2F;runcaptain.com</a>). Captain automates the building and maintenance of file-based RAG pipelines. It indexes cloud storage like S3 and GCS, plus SaaS sources like Google Drive. There’s a quick walkthrough at <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;EIQkwAsIPmc\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;EIQkwAsIPmc</a>.<p>We also put up this demo site called “Ask PG’s Essays” which lets you ask&#x2F;search the corpus of pg’s essays, to get a feel for how it works: <a href=\"https:&#x2F;&#x2F;pg.runcaptain.com\">https:&#x2F;&#x2F;pg.runcaptain.com</a>. The RAG part of this took Captain about 3 minutes to set up.<p>Here are some sample prompts to get a feel for the experience:<p>“When do we do things that don&#x27;t scale? When should we be more cautious?” \n<a href=\"https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=When%20do%20we%20do%20things%20that%20don&#x27;t%20scale%3F%20When%20should%20we%20be%20more%20cautious%3F\">https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=When%20do%20we%20do%20things%20...</a><p>“Give me some advice, I&#x27;m fundraising” \n<a href=\"https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=Give%20me%20some%20advice%2C%20I&#x27;m%20fundraising\">https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=Give%20me%20some%20advice%2C%20...</a><p>“What are the biggest advantages of Lisp”\n<a href=\"https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=what%20are%20the%20biggest%20advantages%20of%20Lisp\">https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=what%20are%20the%20biggest%20ad...</a><p>A good production RAG pipeline takes substantial effort to build, especially for file workloads. You have to handle ETL or text extraction, chunking, embedding, storage, search, re-ranking, inference, and often compliance and observability – all while optimizing for latency and reliability. It’s a lot to manage. grep works well in some cases, but for agents, semantic search provides significantly higher performance. Cursor uses both and reports 6.5%–23.5% accuracy gains from vector search over grep (<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;semsearch\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;semsearch</a>).<p>We’ve spent the past four years scaling RAG pipelines for companies, and Edgar’s work at Purdue’s NLP lab directly informed our chunking techniques. In conversations with dozens of engineers, we repeatedly saw DIY pipelines produce inconsistent results, even after weeks of tuning. Many teams lacked clarity on which retrieval strategies best fit their data.<p>We realized that a system to provision storage and embeddings, handle indexing, and continuously update pipelines to reflect the latest search techniques could remove the need for every team to rebuild RAG themselves. That idea became Captain.<p>In practice, one API call indexes URLs, cloud storage buckets, directories, or individual files. Under the hood, we’re converting everything to Markdown. For this, we’ve had good results with Gemini 3 Pro for images, Reducto for complex documents, and Extend for basic OCR. For embedding models, ‘gemini-embedding-001’ performed reasonably well at first, but we later switched to the Contextualized Embeddings from ‘voyage-context-3’. It produced more relevant results than even the newer Voyage 4 models because its chunk embeddings are encoded with awareness of the surrounding document context. We then applied Voyage’s ‘rerank-2.5’ as second-stage re-ranking, reducing 50 initial chunks to a final top 15 (configurable in Captain’s API). Dense embeddings are just half the picture and full-text search with RRF complete our hybrid retrieval. In the Captain API, these techniques are exposed through a single &#x2F;query endpoint. Access controls can be configured via metadata filters, and page number citations are returned automatically.<p>The stack is constantly changing but the Captain API creates a standard interface for this. You can try Captain, 1 month for free, and build your own pipelines at <a href=\"https:&#x2F;&#x2F;runcaptain.com\">https:&#x2F;&#x2F;runcaptain.com</a>. We’re looking for candid feedback, especially anything that can make it more useful, and look forward to your comments!"
-    },
-    {
       "id": 47362487,
       "title": "Gvisor on Raspbian",
       "url": "https://nubificus.co.uk/blog/gvisor-rpi5/",
@@ -1101,6 +1101,17 @@
       "comments": 17,
       "time": 1773396534,
       "text": ""
+    },
+    {
+      "id": 47366011,
+      "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
+      "url": "https://www.runcaptain.com/",
+      "domain": "runcaptain.com",
+      "author": "CMLewis",
+      "score": 54,
+      "comments": 35,
+      "time": 1773416733,
+      "text": "Hi HN, we’re Lewis and Edgar, building Captain to simplify unstructured data search (<a href=\"https:&#x2F;&#x2F;runcaptain.com\">https:&#x2F;&#x2F;runcaptain.com</a>). Captain automates the building and maintenance of file-based RAG pipelines. It indexes cloud storage like S3 and GCS, plus SaaS sources like Google Drive. There’s a quick walkthrough at <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;EIQkwAsIPmc\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;EIQkwAsIPmc</a>.<p>We also put up this demo site called “Ask PG’s Essays” which lets you ask&#x2F;search the corpus of pg’s essays, to get a feel for how it works: <a href=\"https:&#x2F;&#x2F;pg.runcaptain.com\">https:&#x2F;&#x2F;pg.runcaptain.com</a>. The RAG part of this took Captain about 3 minutes to set up.<p>Here are some sample prompts to get a feel for the experience:<p>“When do we do things that don&#x27;t scale? When should we be more cautious?” \n<a href=\"https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=When%20do%20we%20do%20things%20that%20don&#x27;t%20scale%3F%20When%20should%20we%20be%20more%20cautious%3F\">https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=When%20do%20we%20do%20things%20...</a><p>“Give me some advice, I&#x27;m fundraising” \n<a href=\"https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=Give%20me%20some%20advice%2C%20I&#x27;m%20fundraising\">https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=Give%20me%20some%20advice%2C%20...</a><p>“What are the biggest advantages of Lisp”\n<a href=\"https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=what%20are%20the%20biggest%20advantages%20of%20Lisp\">https:&#x2F;&#x2F;pg.runcaptain.com&#x2F;?q=what%20are%20the%20biggest%20ad...</a><p>A good production RAG pipeline takes substantial effort to build, especially for file workloads. You have to handle ETL or text extraction, chunking, embedding, storage, search, re-ranking, inference, and often compliance and observability – all while optimizing for latency and reliability. It’s a lot to manage. grep works well in some cases, but for agents, semantic search provides significantly higher performance. Cursor uses both and reports 6.5%–23.5% accuracy gains from vector search over grep (<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;semsearch\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;semsearch</a>).<p>We’ve spent the past four years scaling RAG pipelines for companies, and Edgar’s work at Purdue’s NLP lab directly informed our chunking techniques. In conversations with dozens of engineers, we repeatedly saw DIY pipelines produce inconsistent results, even after weeks of tuning. Many teams lacked clarity on which retrieval strategies best fit their data.<p>We realized that a system to provision storage and embeddings, handle indexing, and continuously update pipelines to reflect the latest search techniques could remove the need for every team to rebuild RAG themselves. That idea became Captain.<p>In practice, one API call indexes URLs, cloud storage buckets, directories, or individual files. Under the hood, we’re converting everything to Markdown. For this, we’ve had good results with Gemini 3 Pro for images, Reducto for complex documents, and Extend for basic OCR. For embedding models, ‘gemini-embedding-001’ performed reasonably well at first, but we later switched to the Contextualized Embeddings from ‘voyage-context-3’. It produced more relevant results than even the newer Voyage 4 models because its chunk embeddings are encoded with awareness of the surrounding document context. We then applied Voyage’s ‘rerank-2.5’ as second-stage re-ranking, reducing 50 initial chunks to a final top 15 (configurable in Captain’s API). Dense embeddings are just half the picture and full-text search with RRF complete our hybrid retrieval. In the Captain API, these techniques are exposed through a single &#x2F;query endpoint. Access controls can be configured via metadata filters, and page number citations are returned automatically.<p>The stack is constantly changing but the Captain API creates a standard interface for this. You can try Captain, 1 month for free, and build your own pipelines at <a href=\"https:&#x2F;&#x2F;runcaptain.com\">https:&#x2F;&#x2F;runcaptain.com</a>. We’re looking for candid feedback, especially anything that can make it more useful, and look forward to your comments!"
     },
     {
       "id": 47360978,
@@ -1180,28 +1191,6 @@
       "text": ""
     },
     {
-      "id": 47382334,
-      "title": "Major investor 'shocked and sad' that the games industry is 'demonizing' gen AI",
-      "url": "https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/",
-      "domain": "pcgamer.com",
-      "author": "stalfosknight",
-      "score": 8,
-      "comments": 3,
-      "time": 1773530114,
-      "text": ""
-    },
-    {
-      "id": 47382928,
-      "title": "'Playing with fire': Jeffrey Epstein bankrolled Bill Gates reported girlfriend",
-      "url": "https://fortune.com/2026/03/14/epstein-bankrolled-bill-gates-mistress-doj-documents-playing-with-fire/",
-      "domain": "fortune.com",
-      "author": "RickJWagner",
-      "score": 10,
-      "comments": 0,
-      "time": 1773534760,
-      "text": ""
-    },
-    {
       "id": 47363922,
       "title": "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
       "url": "https://help.instagram.com/491565145294150",
@@ -1210,6 +1199,17 @@
       "score": 405,
       "comments": 200,
       "time": 1773407022,
+      "text": ""
+    },
+    {
+      "id": 47382334,
+      "title": "Major investor 'shocked and sad' that the games industry is 'demonizing' gen AI",
+      "url": "https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/",
+      "domain": "pcgamer.com",
+      "author": "stalfosknight",
+      "score": 8,
+      "comments": 3,
+      "time": 1773530114,
       "text": ""
     },
     {
@@ -1235,17 +1235,6 @@
       "text": ""
     },
     {
-      "id": 47381175,
-      "title": "In search of Banksy, Reuters found the artist took on a new identity",
-      "url": "https://www.reuters.com/investigates/special-report/global-art-banksy/",
-      "domain": "reuters.com",
-      "author": "Tomte",
-      "score": 12,
-      "comments": 2,
-      "time": 1773522459,
-      "text": ""
-    },
-    {
       "id": 47349334,
       "title": "Are LLM merge rates not getting better?",
       "url": "https://entropicthoughts.com/no-swe-bench-improvement",
@@ -1257,6 +1246,17 @@
       "text": "Related: <i>Many SWE-bench-Passing PRs would not be merged</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47341645\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47341645</a> - March 2026 (149 comments)"
     },
     {
+      "id": 47382928,
+      "title": "'Playing with fire': Jeffrey Epstein bankrolled Bill Gates reported girlfriend",
+      "url": "https://fortune.com/2026/03/14/epstein-bankrolled-bill-gates-mistress-doj-documents-playing-with-fire/",
+      "domain": "fortune.com",
+      "author": "RickJWagner",
+      "score": 10,
+      "comments": 0,
+      "time": 1773534760,
+      "text": ""
+    },
+    {
       "id": 47358206,
       "title": "Grief and the AI split",
       "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
@@ -1265,6 +1265,17 @@
       "score": 235,
       "comments": 373,
       "time": 1773354908,
+      "text": ""
+    },
+    {
+      "id": 47381175,
+      "title": "In search of Banksy, Reuters found the artist took on a new identity",
+      "url": "https://www.reuters.com/investigates/special-report/global-art-banksy/",
+      "domain": "reuters.com",
+      "author": "Tomte",
+      "score": 12,
+      "comments": 2,
+      "time": 1773522459,
       "text": ""
     },
     {
@@ -1299,17 +1310,6 @@
       "comments": 28,
       "time": 1773492723,
       "text": "I am struggling with regular tension headaches and stiff neck muscles. When standing at a wall, there is about one hand width between the wall and the back of my head. For my partner it&#x27;s just a finger width.<p>I have seen lots of videos that claim to be able to treat nerd neck, but some of them are conflicting. Example: some say &quot;don&#x27;t do chin tucks&quot;, some say the opposite. I am suspicious of grifters and would like to find trustworthy advice.<p>Has anyone here successfully treated nerd neck, and if yes, how did you do it and what where the improvements that you noticed? I am envisioning some sort of &quot;program&quot; that I need to follow, but I have no idea if I can do this by myself, or if I actually need to go to a physiotherapist.<p>In short: there is a ton of advice out there, but I trust the HN crowd more and would be very happy to hear some anecdotes. Thank you!"
-    },
-    {
-      "id": 47381553,
-      "title": "What People Want from Our Schools Has Never Been Accomplished, Anywhere",
-      "url": "https://freddiedeboer.substack.com/p/what-people-want-from-our-schools",
-      "domain": "freddiedeboer.substack.com",
-      "author": "paulpauper",
-      "score": 7,
-      "comments": 3,
-      "time": 1773524659,
-      "text": ""
     }
   ]
 }

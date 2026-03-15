@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-03-15",
-    "generated_at": "2026-03-15T02:38:20.744Z",
+    "generated_at": "2026-03-15T02:45:11.127Z",
     "source": "topstories+beststories",
     "raw_count": 119,
     "filtered_count": 119,
@@ -46,12 +46,12 @@
       "url": "https://claude.com/blog/1m-context-ga",
       "domain": "claude.com",
       "author": "meetpateltech",
-      "score": 1121,
+      "score": 1122,
       "comments": 483,
       "time": 1773422341,
       "text": "",
       "rank": 3,
-      "importance_score": 865.8,
+      "importance_score": 866.4,
       "hn_link": "https://news.ycombinator.com/item?id=47367129",
       "signal_label": "high score",
       "seen_before": true
