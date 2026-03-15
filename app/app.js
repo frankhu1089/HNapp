@@ -70,8 +70,8 @@ async function loadDate(dateStr) {
 
   try {
     const url = (currentDateIndex === 0)
-      ? '/data/processed/latest.json'
-      : `/data/processed/hn_daily_${dateStr}.json`
+      ? '../data/processed/latest.json'
+      : `../data/processed/hn_daily_${dateStr}.json`
 
     const res = await fetch(url)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
@@ -93,7 +93,7 @@ async function loadDate(dateStr) {
 
 async function loadManifest() {
   try {
-    const res = await fetch('/data/processed/manifest.json')
+    const res = await fetch('../data/processed/manifest.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const manifest = await res.json()
     availableDates = manifest.dates ?? []

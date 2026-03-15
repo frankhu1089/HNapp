@@ -2,59 +2,57 @@
   "date": "2026-03-15",
   "source": "topstories+beststories",
   "candidate_limit": 120,
-  "fetched_at": "2026-03-15T02:45:08.611Z",
+  "fetched_at": "2026-03-15T02:31:12.634Z",
   "items": [
     {
       "by": "nateb2022",
-      "descendants": 223,
+      "descendants": 213,
       "id": 47381791,
       "kids": [
         47382416,
         47383550,
         47382336,
         47383407,
-        47382467,
         47382773,
-        47383716,
+        47382467,
         47383065,
+        47383695,
         47382318,
         47382963,
         47382860,
-        47383067,
         47382530,
         47382356,
         47382315,
+        47383067,
         47383118,
         47383158,
         47383308,
-        47383695,
-        47382342,
         47383615,
-        47382340,
         47383624,
+        47382342,
+        47382340,
         47382444,
-        47382431,
         47382328,
         47382711,
         47382876,
         47382448,
         47383055,
-        47382426
+        47382426,
+        47382431
       ],
-      "score": 340,
+      "score": 326,
       "time": 1773526226,
       "title": "Ageless Linux – Software for humans of indeterminate age",
       "type": "story",
       "url": "https://agelesslinux.org/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.589Z"
     },
     {
       "by": "phasnox",
-      "descendants": 29,
+      "descendants": 26,
       "id": 47382277,
       "kids": [
         47383187,
-        47383743,
         47383351,
         47383671,
         47383435,
@@ -67,12 +65,12 @@
         47383235,
         47383140
       ],
-      "score": 67,
+      "score": 63,
       "time": 1773529824,
       "title": "Airbus is preparing two uncrewed combat aircraft",
       "type": "story",
       "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.589Z"
     },
     {
       "by": "xodn348",
@@ -86,12 +84,12 @@
         47382246,
         47382765,
         47382790,
-        47383111,
         47383383,
+        47383111,
         47382348,
-        47381772,
-        47383189,
         47383509,
+        47383189,
+        47381772,
         47382806,
         47382498,
         47383080,
@@ -113,37 +111,23 @@
       "title": "Show HN: Han – A Korean programming language written in Rust",
       "type": "story",
       "url": "https://github.com/xodn348/han",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.589Z"
     },
     {
       "by": "davikr",
-      "descendants": 5,
+      "descendants": 4,
       "id": 47382791,
       "kids": [
         47383625,
         47383607,
         47383347
       ],
-      "score": 30,
+      "score": 26,
       "time": 1773533710,
       "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
       "type": "story",
       "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "at2005",
-      "descendants": 0,
-      "id": 47383059,
-      "kids": [
-        47383644
-      ],
-      "score": 11,
-      "time": 1773535915,
-      "title": "Tree Search Distillation for Language Models Using PPO",
-      "type": "story",
-      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.589Z"
     },
     {
       "by": "dalvrosa",
@@ -161,57 +145,86 @@
       "title": "Deriving Type Erasure",
       "type": "story",
       "url": "https://david.alvarezrosa.com/posts/deriving-type-erasure/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.589Z"
+    },
+    {
+      "by": "at2005",
+      "descendants": 1,
+      "id": 47383059,
+      "kids": [
+        47383644
+      ],
+      "score": 10,
+      "time": 1773535915,
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "type": "story",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "fetched_at": "2026-03-15T02:31:12.589Z"
+    },
+    {
+      "by": "microflash",
+      "descendants": 43,
+      "id": 47382196,
+      "kids": [
+        47383643,
+        47383663,
+        47383474,
+        47383494,
+        47383360,
+        47383089,
+        47383514,
+        47383031,
+        47383563,
+        47382445,
+        47382778,
+        47383211,
+        47383361,
+        47382213,
+        47382906,
+        47383300
+      ],
+      "score": 82,
+      "text": "<a href=\"https:&#x2F;&#x2F;arnika.org&#x2F;en&#x2F;publications&#x2F;download&#x2F;2128_f40ae4eb2e63e4dc3205035fb376d8e3\" rel=\"nofollow\">https:&#x2F;&#x2F;arnika.org&#x2F;en&#x2F;publications&#x2F;download&#x2F;2128_f40ae4eb2e6...</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;feb&#x2F;18&#x2F;hazardous-substances-headphones\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;feb&#x2F;18&#x2F;hazardous...</a>",
+      "time": 1773529205,
+      "title": "Hazardous substances found in all headphones tested by ToxFREE project",
+      "type": "story",
+      "url": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
+      "fetched_at": "2026-03-15T02:31:12.589Z"
     },
     {
       "by": "1659447091",
-      "descendants": 16,
+      "descendants": 15,
       "id": 47381011,
       "kids": [
         47383537,
-        47383453,
         47383372,
+        47383453,
         47382130,
         47383277,
         47383043,
         47382353
       ],
-      "score": 65,
+      "score": 62,
       "time": 1773521350,
       "title": "Bumblebee queens breathe underwater to survive drowning",
       "type": "story",
       "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.589Z"
     },
     {
       "by": "corpano",
       "descendants": 2,
       "id": 47325606,
       "kids": [
-        47383459,
-        47383465
+        47383465,
+        47383459
       ],
-      "score": 15,
+      "score": 11,
       "time": 1773160692,
       "title": "From Braun T3 to Apple's iPod",
       "type": "story",
       "url": "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "anonzzzies",
-      "descendants": 2,
-      "id": 47382398,
-      "kids": [
-        47383008,
-        47382933
-      ],
-      "score": 33,
-      "time": 1773530559,
-      "title": "SBCL Fibers – Lightweight Cooperative Threads",
-      "type": "story",
-      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.589Z"
     },
     {
       "by": "jandeboevrie",
@@ -223,50 +236,71 @@
         47381676,
         47382512
       ],
-      "score": 69,
+      "score": 68,
       "time": 1773518198,
       "title": "Fedora 44 on the Raspberry Pi 5",
       "type": "story",
       "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "microflash",
-      "descendants": 51,
-      "id": 47382196,
+      "by": "anonzzzies",
+      "descendants": 2,
+      "id": 47382398,
       "kids": [
-        47383643,
-        47383474,
-        47383663,
-        47383494,
-        47383360,
-        47383089,
-        47383514,
-        47383031,
-        47382445,
-        47383563,
-        47382778,
-        47383211,
-        47383361,
-        47382213,
-        47382906,
-        47383300
+        47383008,
+        47382933
       ],
-      "score": 86,
-      "text": "<a href=\"https:&#x2F;&#x2F;arnika.org&#x2F;en&#x2F;publications&#x2F;download&#x2F;2128_f40ae4eb2e63e4dc3205035fb376d8e3\" rel=\"nofollow\">https:&#x2F;&#x2F;arnika.org&#x2F;en&#x2F;publications&#x2F;download&#x2F;2128_f40ae4eb2e6...</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;feb&#x2F;18&#x2F;hazardous-substances-headphones\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;feb&#x2F;18&#x2F;hazardous...</a>",
-      "time": 1773529205,
-      "title": "Hazardous substances found in all headphones tested by ToxFREE project",
+      "score": 31,
+      "time": 1773530559,
+      "title": "SBCL Fibers – Lightweight Cooperative Threads",
       "type": "story",
-      "url": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "functionmouse",
+      "descendants": 31,
+      "id": 47383298,
+      "kids": [
+        47383562,
+        47383500,
+        47383504,
+        47383570,
+        47383478,
+        47383590,
+        47383428,
+        47383488,
+        47383473,
+        47383470
+      ],
+      "score": 59,
+      "time": 1773538045,
+      "title": "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
+      "type": "story",
+      "url": "https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "__grob",
+      "descendants": 1,
+      "id": 47382072,
+      "kids": [
+        47383400
+      ],
+      "score": 17,
+      "time": 1773528088,
+      "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+      "type": "story",
+      "url": "https://github.com/groverburger/grobpaint",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "gmays",
-      "descendants": 35,
+      "descendants": 32,
       "id": 47381340,
       "kids": [
         47383290,
-        47383717,
         47383641,
         47383367,
         47382064,
@@ -279,61 +313,36 @@
         47382757,
         47382456
       ],
-      "score": 89,
+      "score": 85,
       "time": 1773523422,
       "title": "Launching the Claude Partner Network",
       "type": "story",
       "url": "https://www.anthropic.com/news/claude-partner-network",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "picafrost",
-      "descendants": 0,
-      "id": 47374924,
-      "score": 7,
-      "time": 1773481117,
-      "title": "Mathematics Distillation Challenge – Equational Theories",
-      "type": "story",
-      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "__grob",
-      "descendants": 1,
-      "id": 47382072,
-      "kids": [
-        47383400
-      ],
-      "score": 18,
-      "time": 1773528088,
-      "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
-      "type": "story",
-      "url": "https://github.com/groverburger/grobpaint",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "ammerfest",
-      "descendants": 16,
+      "descendants": 13,
       "id": 47381731,
       "kids": [
         47382215,
         47383288,
         47382238
       ],
-      "score": 45,
+      "score": 44,
       "time": 1773525768,
       "title": "Learning Creative Coding",
       "type": "story",
       "url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "heftykoo",
       "descendants": 18,
       "id": 47320571,
       "kids": [
-        47383011,
         47381684,
+        47383011,
         47382687,
         47382692,
         47383155,
@@ -344,26 +353,25 @@
         47381953,
         47382517
       ],
-      "score": 42,
+      "score": 41,
       "time": 1773132097,
       "title": "Offloading FFmpeg with Cloudflare",
       "type": "story",
       "url": "https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "jimsojim",
-      "descendants": 38,
+      "descendants": 34,
       "id": 47380295,
       "kids": [
-        47383725,
         47381773,
         47381371,
         47382088,
         47381724,
         47382331,
-        47381605,
         47383180,
+        47381605,
         47381636,
         47382189,
         47381462,
@@ -373,12 +381,12 @@
         47382555,
         47382453
       ],
-      "score": 121,
+      "score": 119,
       "time": 1773516940,
       "title": "Marketing for Founders",
       "type": "story",
       "url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "debo_",
@@ -387,16 +395,57 @@
       "kids": [
         47382319
       ],
-      "score": 44,
+      "score": 43,
       "time": 1773519379,
       "title": "Library of Short Stories",
       "type": "story",
       "url": "https://www.libraryofshortstories.com/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "picafrost",
+      "descendants": 0,
+      "id": 47374924,
+      "score": 5,
+      "time": 1773481117,
+      "title": "Mathematics Distillation Challenge – Equational Theories",
+      "type": "story",
+      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "canpan",
+      "descendants": 76,
+      "id": 47381746,
+      "kids": [
+        47382234,
+        47381895,
+        47381886,
+        47381876,
+        47382170,
+        47382410,
+        47381811,
+        47382909,
+        47383228,
+        47382291,
+        47382508,
+        47382373,
+        47382772,
+        47382675,
+        47382669,
+        47382419,
+        47381820
+      ],
+      "score": 128,
+      "time": 1773525888,
+      "title": "Changes to OpenTTD Distribution on Steam",
+      "type": "story",
+      "url": "https://www.openttd.org/news/2026/03/14/steam-changes",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "signa11",
-      "descendants": 57,
+      "descendants": 56,
       "id": 47377998,
       "kids": [
         47379151,
@@ -414,57 +463,12 @@
         47381373,
         47380689
       ],
-      "score": 101,
+      "score": 98,
       "time": 1773504083,
       "title": "An ode to bzip",
       "type": "story",
       "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "canpan",
-      "descendants": 79,
-      "id": 47381746,
-      "kids": [
-        47382234,
-        47381895,
-        47383723,
-        47381886,
-        47381876,
-        47382170,
-        47382410,
-        47381811,
-        47382909,
-        47382291,
-        47383228,
-        47382508,
-        47382373,
-        47382772,
-        47382675,
-        47382669,
-        47382419,
-        47381820
-      ],
-      "score": 128,
-      "time": 1773525888,
-      "title": "Changes to OpenTTD Distribution on Steam",
-      "type": "story",
-      "url": "https://www.openttd.org/news/2026/03/14/steam-changes",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "sebi_io",
-      "descendants": 1,
-      "id": 47381736,
-      "kids": [
-        47383778
-      ],
-      "score": 15,
-      "time": 1773525827,
-      "title": "Allow me to get to know you, mistakes and all",
-      "type": "story",
-      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "katspaugh",
@@ -477,59 +481,59 @@
         47382787,
         47381637,
         47381054,
-        47380586,
         47382520,
+        47380586,
         47381807,
         47381069,
         47381598,
         47382503,
-        47380783,
         47382506,
+        47380783,
         47383530,
         47382720,
         47380357
       ],
-      "score": 76,
+      "score": 75,
       "text": "Look, every journaling app out there wants you to organize things into folders and tags and templates. I just wanted to write something down every day.<p>So I built this. One note per day. That&#x27;s the whole deal.<p>- Can&#x27;t edit yesterday. What&#x27;s done is done. Keeps you from fussing over old entries instead of writing today&#x27;s.<p>- Year view with dots showing which days you actually wrote. It&#x27;s a streak chart. Works better than it should.<p>- No signup required. Opens right up, stores everything locally in your browser. Optional cloud sync if you want it<p>- E2E encrypted with AES-GCM, zero-knowledge, the whole nine yards.<p>Tech-wise: React, TypeScript, Vite, Zustand, IndexedDB. Supabase for optional sync. Deployed on Cloudflare. PWA-capable.<p>The name means &quot;one day&quot; in Japanese (いちにち).<p>The read-only past turned out to be the thing that actually made me stick with it. Can&#x27;t waste time perfecting yesterday if yesterday won&#x27;t let you in.<p>Live at <a href=\"https:&#x2F;&#x2F;ichinichi.app\" rel=\"nofollow\">https:&#x2F;&#x2F;ichinichi.app</a> | Source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;katspaugh&#x2F;ichinichi\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;katspaugh&#x2F;ichinichi</a>",
       "time": 1773514632,
       "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
       "type": "story",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "ngaut",
       "descendants": 10,
       "id": 47381238,
       "kids": [
-        47382865,
         47383694,
+        47382865,
         47383457,
         47382956,
         47383424
       ],
-      "score": 40,
+      "score": 38,
       "time": 1773522843,
       "title": "Postgres with Builtin File Systems",
       "type": "story",
       "url": "https://db9.ai/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "timhh",
-      "descendants": 55,
+      "descendants": 54,
       "id": 47339219,
       "kids": [
         47375516,
         47383707,
         47378346,
-        47381619,
         47378389,
+        47381619,
         47376675,
         47376014,
         47380932,
-        47378248,
-        47377170,
         47383087,
+        47377170,
+        47378248,
         47375700,
         47380206,
         47376192,
@@ -541,16 +545,16 @@
         47381921,
         47378276
       ],
-      "score": 276,
+      "score": 274,
       "time": 1773253318,
       "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
       "type": "story",
       "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "bilsbie",
-      "descendants": 208,
+      "descendants": 207,
       "id": 47376767,
       "kids": [
         47377578,
@@ -594,12 +598,23 @@
         47378142,
         47378044
       ],
-      "score": 246,
+      "score": 245,
       "time": 1773496798,
       "title": "Montana passes Right to Compute act (2025)",
       "type": "story",
       "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "sebi_io",
+      "descendants": 0,
+      "id": 47381736,
+      "score": 12,
+      "time": 1773525827,
+      "title": "Allow me to get to know you, mistakes and all",
+      "type": "story",
+      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "surprisetalk",
@@ -610,12 +625,12 @@
         47381097,
         47381156
       ],
-      "score": 54,
+      "score": 53,
       "time": 1773238231,
       "title": "A Recursive Algorithm to Render Signed Distance Fields",
       "type": "story",
       "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "Twirrim",
@@ -655,34 +670,7 @@
       "title": "Python: The Optimization Ladder",
       "type": "story",
       "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "msuniverse2026",
-      "descendants": 173,
-      "id": 47374796,
-      "kids": [
-        47382763,
-        47380710,
-        47377877,
-        47383728,
-        47377549,
-        47380796,
-        47377845,
-        47378449,
-        47381202,
-        47381185,
-        47375182,
-        47377455,
-        47382045,
-        47377534
-      ],
-      "score": 132,
-      "time": 1773479691,
-      "title": "Starlink militarization and its impact on global strategic stability (2023)",
-      "type": "story",
-      "url": "https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "lizmat",
@@ -696,7 +684,43 @@
       "title": "Making your JITted Code known: Let me count the ways",
       "type": "story",
       "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "msuniverse2026",
+      "descendants": 171,
+      "id": 47374796,
+      "kids": [
+        47382763,
+        47380710,
+        47377877,
+        47377549,
+        47380796,
+        47377845,
+        47378449,
+        47381202,
+        47381185,
+        47375182,
+        47377455,
+        47382045,
+        47377534
+      ],
+      "score": 131,
+      "time": 1773479691,
+      "title": "Starlink militarization and its impact on global strategic stability (2023)",
+      "type": "story",
+      "url": "https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "ukd1",
+      "id": 47376619,
+      "score": 1,
+      "time": 1773495904,
+      "title": "9 Mothers Defense (YC P26) Is Hiring in Austin",
+      "type": "job",
+      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "meetpateltech",
@@ -712,14 +736,14 @@
         47372047,
         47373075,
         47374151,
-        47376923,
         47383000,
+        47376923,
         47374697,
         47378843,
         47371823,
+        47381495,
         47372570,
         47378563,
-        47381495,
         47378951,
         47377909,
         47372159,
@@ -772,36 +796,26 @@
         47379322,
         47378984,
         47373973,
-        47372761,
         47376629,
         47373978,
         47376651,
         47372358,
-        47372801,
         47373316,
+        47372761,
         47380109,
+        47372801,
         47375038,
         47380663,
         47376797,
         47378656,
         47373381
       ],
-      "score": 1122,
+      "score": 1121,
       "time": 1773422341,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "type": "story",
       "url": "https://claude.com/blog/1m-context-ga",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "ukd1",
-      "id": 47376619,
-      "score": 1,
-      "time": 1773495904,
-      "title": "9 Mothers Defense (YC P26) Is Hiring in Austin",
-      "type": "job",
-      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "sivasurend",
@@ -816,8 +830,8 @@
         47380374,
         47382118,
         47381960,
-        47381262,
         47381915,
+        47381262,
         47379112,
         47380804,
         47382727,
@@ -828,13 +842,13 @@
         47379726,
         47380665
       ],
-      "score": 96,
+      "score": 95,
       "text": "We built GitAgent because we kept seeing the same problem: every agent framework defines agents differently, and switching frameworks means rewriting everything.<p>GitAgent is a spec that defines an AI agent as files in a git repo.<p>Three core files — agent.yaml (config), SOUL.md (personality&#x2F;instructions), and SKILL.md (capabilities) — and you get a portable agent definition that exports to Claude Code, OpenAI Agents SDK, CrewAI, Google ADK, LangChain, and others.<p>What you get for free by being git-native:<p>1. Version control for agent behavior (roll back a bad prompt like you&#x27;d revert a bad commit)\n2. Branching for environment promotion (dev → staging → main)\n3. Human-in-the-loop via PRs (agent learns a skill → opens a branch → human reviews before merge)\n4. Audit trail via git blame and git diff\n5. Agent forking and remixing (fork a public agent, customize it, PR improvements back)\n6. CI&#x2F;CD with GitAgent validate in GitHub Actions<p>The CLI lets you run any agent repo directly:<p>npx @open-gitagent&#x2F;gitagent run -r <a href=\"https:&#x2F;&#x2F;github.com&#x2F;user&#x2F;agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;user&#x2F;agent</a> -a claude<p>The compliance layer is optional, but there if you need it — risk tiers, regulatory mappings (FINRA, SEC, SR 11-7), and audit reports via GitAgent audit.<p>Spec is at <a href=\"https:&#x2F;&#x2F;gitagent.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;gitagent.sh</a>, code is on GitHub.<p>Would love feedback on the schema design and what adapters people would want next.",
       "time": 1773495685,
       "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
       "type": "story",
       "url": "https://www.gitagent.sh/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "XzetaU8",
@@ -852,11 +866,11 @@
       "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
       "type": "story",
       "url": "https://github.com/drojaazu/megadev",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "y1n0",
-      "descendants": 242,
+      "descendants": 241,
       "id": 47375764,
       "kids": [
         47376221,
@@ -882,8 +896,8 @@
         47378238,
         47376741,
         47380496,
-        47376439,
         47380885,
+        47376439,
         47380547,
         47379070,
         47377411,
@@ -921,7 +935,7 @@
       "title": "XML is a cheap DSL",
       "type": "story",
       "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "gangtao",
@@ -932,18 +946,7 @@
       "title": "An interactive presentation about the Grammar of Graphic",
       "type": "story",
       "url": "https://timeplus-io.github.io/gg-vistral-introduction/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "1024core",
-      "descendants": 0,
-      "id": 47382494,
-      "score": 3,
-      "time": 1773531432,
-      "title": "Researchers improve lower bounds for some Ramsey numbers using AlphaEvolve",
-      "type": "story",
-      "url": "https://arxiv.org/abs/2603.09172",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "Velocifyer",
@@ -956,12 +959,12 @@
         47383093,
         47380062,
         47381897,
-        47380356,
         47382086,
+        47380356,
         47380011,
         47380342,
-        47380164,
         47383244,
+        47380164,
         47380093,
         47381343,
         47381966,
@@ -981,7 +984,7 @@
       "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
       "type": "story",
       "url": "https://hostilevolume.com/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "isomorphist",
@@ -997,7 +1000,7 @@
       "title": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
       "type": "story",
       "url": "https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "lumpa",
@@ -1011,7 +1014,7 @@
       "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
       "type": "story",
       "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "mooreds",
@@ -1034,18 +1037,18 @@
       "title": "Sunsetting Jazzband",
       "type": "story",
       "url": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "weldu",
-      "descendants": 135,
+      "descendants": 133,
       "id": 47380647,
       "kids": [
         47381708,
         47382755,
         47381358,
-        47381121,
         47383354,
+        47381121,
         47381271,
         47382415,
         47381757,
@@ -1092,22 +1095,11 @@
       "title": "Claude March 2026 usage promotion",
       "type": "story",
       "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "qwikhost",
-      "descendants": 0,
-      "id": 47383580,
-      "score": 4,
-      "time": 1773540548,
-      "title": "The war on Iran is about China",
-      "type": "story",
-      "url": "https://sharptext.net/2026/loud-and-clear/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "1659447091",
-      "descendants": 189,
+      "descendants": 184,
       "id": 47332847,
       "kids": [
         47379585,
@@ -1139,7 +1131,7 @@
       "title": "Life as an OnlyFans 'chatter'",
       "type": "story",
       "url": "https://www.bbc.com/news/articles/cq571g9gd4lo",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "homebrewer",
@@ -1161,7 +1153,7 @@
       "title": "Nmap in the movies (2008)",
       "type": "story",
       "url": "https://nmap.org/movies/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "PaulHoule",
@@ -1179,7 +1171,26 @@
       "title": "Everything you never wanted to know about visually-hidden",
       "type": "story",
       "url": "https://dbushell.com/2026/02/20/visually-hidden/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "kklisura",
+      "descendants": 12,
+      "id": 47380743,
+      "kids": [
+        47381753,
+        47381816,
+        47381795,
+        47381940,
+        47381595,
+        47382321
+      ],
+      "score": 38,
+      "time": 1773519521,
+      "title": "The Washington Post Is Using Reader Data to Set Subscription Prices",
+      "type": "story",
+      "url": "https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "ricardbejarano",
@@ -1220,9 +1231,9 @@
         47369123,
         47367357,
         47372497,
+        47380154,
         47374887,
         47375735,
-        47380154,
         47369154,
         47369597,
         47367918,
@@ -1286,8 +1297,8 @@
         47373881,
         47368311,
         47372356,
-        47366392,
         47371430,
+        47366392,
         47369638,
         47368782,
         47367991,
@@ -1318,26 +1329,7 @@
       "title": "Can I run AI locally?",
       "type": "story",
       "url": "https://www.canirun.ai/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "kklisura",
-      "descendants": 14,
-      "id": 47380743,
-      "kids": [
-        47381753,
-        47381816,
-        47381795,
-        47381940,
-        47381595,
-        47382321
-      ],
-      "score": 39,
-      "time": 1773519521,
-      "title": "The Washington Post Is Using Reader Data to Set Subscription Prices",
-      "type": "story",
-      "url": "https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "_joel",
@@ -1352,11 +1344,106 @@
       "title": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
       "type": "story",
       "url": "https://github.com/CSMWrap/CSMWrap",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "F3nd0",
+      "descendants": 57,
+      "id": 47380465,
+      "kids": [
+        47380887,
+        47381047,
+        47381109,
+        47380840,
+        47380817,
+        47381855,
+        47380968,
+        47381570,
+        47381295,
+        47381155,
+        47381560
+      ],
+      "score": 206,
+      "time": 1773517885,
+      "title": "GIMP 3.2 released",
+      "type": "story",
+      "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "inaros",
+      "descendants": 335,
+      "id": 47378638,
+      "kids": [
+        47379141,
+        47378994,
+        47380038,
+        47380889,
+        47379845,
+        47382717,
+        47379413,
+        47380810,
+        47380084,
+        47383003,
+        47379354,
+        47379907,
+        47379249,
+        47379216,
+        47380064,
+        47379016,
+        47378982,
+        47380650,
+        47379828,
+        47379312,
+        47378979,
+        47379497,
+        47379437,
+        47379059,
+        47378929,
+        47378944,
+        47379110,
+        47379510
+      ],
+      "score": 313,
+      "time": 1773507520,
+      "title": "What happens when US economic data becomes unreliable",
+      "type": "story",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "enz",
+      "descendants": 61,
+      "id": 47347920,
+      "kids": [
+        47376064,
+        47377661,
+        47377738,
+        47375691,
+        47376566,
+        47375470,
+        47375093,
+        47376384,
+        47375102,
+        47377893,
+        47375082,
+        47376594,
+        47375671,
+        47378694,
+        47378533,
+        47376160,
+        47378011
+      ],
+      "score": 145,
+      "time": 1773303752,
+      "title": "The Isolation Trap: Erlang",
+      "type": "story",
+      "url": "https://causality.blog/essays/the-isolation-trap/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "angst",
-      "descendants": 398,
+      "descendants": 396,
       "id": 47348733,
       "kids": [
         47368715,
@@ -1375,10 +1462,10 @@
         47349707,
         47378039,
         47349512,
+        47382974,
         47376699,
         47378403,
         47373953,
-        47382974,
         47378270,
         47369086,
         47369065,
@@ -1414,102 +1501,7 @@
       "title": "Coding after coders: The end of computer programming as we know it?",
       "type": "story",
       "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "enz",
-      "descendants": 61,
-      "id": 47347920,
-      "kids": [
-        47376064,
-        47377661,
-        47377738,
-        47375691,
-        47376566,
-        47375470,
-        47375093,
-        47376384,
-        47375102,
-        47377893,
-        47375082,
-        47376594,
-        47375671,
-        47378694,
-        47378533,
-        47376160,
-        47378011
-      ],
-      "score": 145,
-      "time": 1773303752,
-      "title": "The Isolation Trap: Erlang",
-      "type": "story",
-      "url": "https://causality.blog/essays/the-isolation-trap/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "F3nd0",
-      "descendants": 58,
-      "id": 47380465,
-      "kids": [
-        47380887,
-        47381047,
-        47381109,
-        47380840,
-        47380817,
-        47381855,
-        47380968,
-        47381570,
-        47381295,
-        47381155,
-        47381560
-      ],
-      "score": 206,
-      "time": 1773517885,
-      "title": "GIMP 3.2 released",
-      "type": "story",
-      "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "inaros",
-      "descendants": 336,
-      "id": 47378638,
-      "kids": [
-        47379141,
-        47378994,
-        47380038,
-        47380889,
-        47379845,
-        47382717,
-        47379413,
-        47380084,
-        47380810,
-        47383003,
-        47379354,
-        47379907,
-        47379249,
-        47379216,
-        47380064,
-        47379016,
-        47378982,
-        47380650,
-        47379828,
-        47379312,
-        47378979,
-        47379497,
-        47379437,
-        47379059,
-        47378929,
-        47378944,
-        47379110,
-        47379510
-      ],
-      "score": 313,
-      "time": 1773507520,
-      "title": "What happens when US economic data becomes unreliable",
-      "type": "story",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "gregdoesit",
@@ -1540,7 +1532,7 @@
       "title": "It's time to move your docs in the repo",
       "type": "story",
       "url": "https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "billybuckwheat",
@@ -1574,8 +1566,8 @@
         47374256,
         47375596,
         47375587,
-        47375110,
         47376010,
+        47375110,
         47381040,
         47378931,
         47376864,
@@ -1590,11 +1582,11 @@
         47373622,
         47373512,
         47377173,
+        47382633,
         47379266,
         47378784,
-        47382633,
-        47376267,
         47380515,
+        47376267,
         47376503,
         47374163,
         47376838,
@@ -1605,17 +1597,17 @@
         47373960,
         47379773,
         47378835,
-        47376000,
         47381725,
         47380277,
+        47376000,
         47377349,
         47378459,
         47345156,
         47378187,
         47375156,
         47376339,
-        47370859,
         47376809,
+        47370859,
         47377174,
         47379792,
         47375708,
@@ -1624,8 +1616,8 @@
         47375442,
         47375926,
         47375170,
-        47374679,
         47380533,
+        47374679,
         47373610,
         47376939,
         47375399,
@@ -1639,13 +1631,13 @@
         47374329,
         47376700,
         47375505,
-        47341254,
         47379069,
         47375915,
+        47341254,
         47376962,
+        47378114,
         47340439,
         47371058,
-        47378114,
         47375278,
         47340303,
         47377853,
@@ -1703,11 +1695,30 @@
       "title": "Wired headphone sales are exploding",
       "type": "story",
       "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "mondobe",
+      "descendants": 13,
+      "id": 47339403,
+      "kids": [
+        47374762,
+        47373767,
+        47374183,
+        47374168,
+        47375918,
+        47378356
+      ],
+      "score": 60,
+      "time": 1773254139,
+      "title": "Atari 2600 BASIC Programming (2015)",
+      "type": "story",
+      "url": "https://huguesjohnson.com/programming/atari-2600-basic/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "ghd_",
-      "descendants": 285,
+      "descendants": 282,
       "id": 47371275,
       "kids": [
         47373876,
@@ -1731,8 +1742,8 @@
         47375120,
         47372353,
         47380265,
-        47371638,
         47381809,
+        47371638,
         47376917,
         47377189,
         47371608,
@@ -1749,12 +1760,12 @@
         47381891,
         47371492,
         47373886,
-        47374752,
         47375731,
+        47374752,
         47373376,
         47374564,
-        47374878,
         47378970,
+        47374878,
         47372240,
         47377324,
         47371629,
@@ -1798,26 +1809,7 @@
       "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
       "type": "story",
       "url": "https://lr0.org/blog/p/crocker/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "mondobe",
-      "descendants": 13,
-      "id": 47339403,
-      "kids": [
-        47374762,
-        47373767,
-        47374183,
-        47374168,
-        47375918,
-        47378356
-      ],
-      "score": 60,
-      "time": 1773254139,
-      "title": "Atari 2600 BASIC Programming (2015)",
-      "type": "story",
-      "url": "https://huguesjohnson.com/programming/atari-2600-basic/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "johnbarron",
@@ -1872,44 +1864,11 @@
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "type": "story",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "ingve",
-      "descendants": 17,
-      "id": 47320482,
-      "kids": [
-        47377968,
-        47377719,
-        47378094,
-        47378636,
-        47377630
-      ],
-      "score": 37,
-      "time": 1773131254,
-      "title": "Nominal Types in WebAssembly",
-      "type": "story",
-      "url": "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "NaOH",
-      "descendants": 3,
-      "id": 47367336,
-      "kids": [
-        47378855,
-        47380809
-      ],
-      "score": 23,
-      "time": 1773423575,
-      "title": "Cookie jars capture American kitsch (2023)",
-      "type": "story",
-      "url": "https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "edward",
-      "descendants": 171,
+      "descendants": 170,
       "id": 47375085,
       "kids": [
         47376926,
@@ -1927,8 +1886,8 @@
         47377445,
         47378939,
         47378362,
-        47376959,
         47381045,
+        47376959,
         47376531,
         47377215,
         47377320,
@@ -1956,7 +1915,57 @@
       "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
       "type": "story",
       "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "ingve",
+      "descendants": 17,
+      "id": 47320482,
+      "kids": [
+        47377968,
+        47377719,
+        47378094,
+        47378636,
+        47377630
+      ],
+      "score": 37,
+      "time": 1773131254,
+      "title": "Nominal Types in WebAssembly",
+      "type": "story",
+      "url": "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "NaOH",
+      "descendants": 3,
+      "id": 47367336,
+      "kids": [
+        47378855,
+        47380809
+      ],
+      "score": 23,
+      "time": 1773423575,
+      "title": "Cookie jars capture American kitsch (2023)",
+      "type": "story",
+      "url": "https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "ibobev",
+      "descendants": 5,
+      "id": 47378787,
+      "kids": [
+        47380081,
+        47381662,
+        47378999,
+        47380860
+      ],
+      "score": 27,
+      "time": 1773508338,
+      "title": "In Praise of Stupid Questions",
+      "type": "story",
+      "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "vismit2000",
@@ -1995,24 +2004,7 @@
       "title": "A Survival Guide to a PhD (2016)",
       "type": "story",
       "url": "http://karpathy.github.io/2016/09/07/phd/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "ibobev",
-      "descendants": 5,
-      "id": 47378787,
-      "kids": [
-        47380081,
-        47381662,
-        47378999,
-        47380860
-      ],
-      "score": 27,
-      "time": 1773508338,
-      "title": "In Praise of Stupid Questions",
-      "type": "story",
-      "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "gostsamo",
@@ -2045,7 +2037,7 @@
       "title": "Games with loot boxes to get minimum 16 age rating across Europe",
       "type": "story",
       "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "ryo-manba",
@@ -2060,7 +2052,7 @@
       "title": "Show HN: Data-anim – Animate HTML with just data attributes",
       "type": "story",
       "url": "https://github.com/ryo-manba/data-anim",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "adangit",
@@ -2082,28 +2074,7 @@
       "title": "Show HN: Learn Arabic with spaced repetition and comprehensible input",
       "type": "story",
       "url": "https://abjadpro.com",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "luispa",
-      "descendants": 26,
-      "id": 47330946,
-      "kids": [
-        47375752,
-        47375317,
-        47380012,
-        47378092,
-        47374867,
-        47378907,
-        47375703,
-        47378912
-      ],
-      "score": 43,
-      "time": 1773193603,
-      "title": "Recursive Problems Benefit from Recursive Solutions",
-      "type": "story",
-      "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "CharlieDigital",
@@ -2117,8 +2088,8 @@
         47381478,
         47382098,
         47382341,
-        47381284,
         47383175,
+        47381284,
         47383023,
         47381307,
         47381277,
@@ -2142,7 +2113,28 @@
       "title": "MCP is dead; long live MCP",
       "type": "story",
       "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "luispa",
+      "descendants": 26,
+      "id": 47330946,
+      "kids": [
+        47375752,
+        47375317,
+        47380012,
+        47378092,
+        47374867,
+        47378907,
+        47375703,
+        47378912
+      ],
+      "score": 43,
+      "time": 1773193603,
+      "title": "Recursive Problems Benefit from Recursive Solutions",
+      "type": "story",
+      "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "xyzal",
@@ -2166,11 +2158,11 @@
       "title": "Online astroturfing: A problem beyond disinformation (2022)",
       "type": "story",
       "url": "https://journals.sagepub.com/doi/10.1177/01914537221108467",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "sebastian_z",
-      "descendants": 47,
+      "descendants": 46,
       "id": 47376848,
       "kids": [
         47377331,
@@ -2192,7 +2184,7 @@
       "title": "Philosoph Jürgen Habermas Gestorben",
       "type": "story",
       "url": "https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "vmatsiiako",
@@ -2212,7 +2204,38 @@
       "title": "Secure Secrets Management for Cursor Cloud Agents",
       "type": "story",
       "url": "https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "amelius",
+      "descendants": 11,
+      "id": 47381473,
+      "kids": [
+        47383374,
+        47383061,
+        47381821,
+        47381830,
+        47382560,
+        47381714,
+        47381893
+      ],
+      "score": 14,
+      "time": 1773524196,
+      "title": "How \"Hardwired\" AI Will Destroy Nvidia's Empire and Change the World",
+      "type": "story",
+      "url": "https://medium.com/@mokrasar/the-last-chip-how-hardwired-ai-will-destroy-nvidias-empire-and-change-the-world-8da20571e706",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "throwaway81523",
+      "descendants": 0,
+      "id": 47382567,
+      "score": 4,
+      "time": 1773531939,
+      "title": "UK Society of Authors launches logo to identify books written by humans not AI",
+      "type": "story",
+      "url": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "merksittich",
@@ -2248,8 +2271,8 @@
         47369320,
         47368755,
         47372304,
-        47368949,
         47377257,
+        47368949,
         47374021,
         47377448,
         47373861,
@@ -2284,7 +2307,24 @@
       "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
       "type": "story",
       "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "august-",
+      "descendants": 5,
+      "id": 47337028,
+      "kids": [
+        47382843,
+        47377963,
+        47381779
+      ],
+      "score": 27,
+      "text": "Hi HN, I built Ink, a full stack deployment platform where the primary users are AI agents, not humans.<p>We all know AI can write code, but deploying them still requires a human to wire it up: hosting, databases, DNS, and secrets. Ink gives agents those tools directly.<p>The agent calls &quot;deploy&quot; and the platform auto-detects the framework, builds it, deploys it, and returns a live URL at *.ml.ink. Here&#x27;s a demo with Claude Code: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F6ZM_RrIaC0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F6ZM_RrIaC0</a>.<p>What Ink does that I haven&#x27;t seen elsewhere:<p>- One agent skill for compute + databases + DNS + secrets + domains + usage + metrics + logs + scaling. The agent doesn&#x27;t juggle separate providers — one account, one auth, one set of tools.<p>- DNS zone delegation. Delegate a zone once (e.g. dev.acme.com) and agents create any subdomain instantly — no manual adding DNS records each time, no propagation wait.<p>- Multiple agents and humans share one workspace and collaborate on projects. I envision a future where many agents collaborate together. I&#x27;m working on a cool demo to share.<p>- Built-in git hosting. Agents push code and deploy without the human setting up GitHub first. No external account needed. (Of course if you&#x27;re a developer you can store code on GitHub — that&#x27;s the recommended pattern.)<p>You also have what you&#x27;d expect:\n- UI with service observability designed for humans (logs, metrics, DNS).\n- GitHub integration — push triggers auto-redeploy.\n- Per-minute billing for CPU, memory, and egress. No per-seat, no per-agent.\n- Error responses designed for LLMs. Structured reason codes with suggested next actions, not raw stack traces. When a deploy fails the agent reads the log, fixes it, and redeploys autonomously.<p>Try: <a href=\"https:&#x2F;&#x2F;ml.ink\" rel=\"nofollow\">https:&#x2F;&#x2F;ml.ink</a>\nFree $2 trial credits, no credit card. In case you want to try further here&#x27;s 20% code &quot;GOODFORTUNE&quot;.",
+      "time": 1773243543,
+      "title": "Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills",
+      "type": "story",
+      "url": "https://ml.ink/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "ingve",
@@ -2313,44 +2353,25 @@
       "title": "Using Thunderbird for RSS",
       "type": "story",
       "url": "https://rubenerd.com/using-thunderbird-for-rss/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "august-",
-      "descendants": 5,
-      "id": 47337028,
+      "by": "o4c",
+      "descendants": 7,
+      "id": 47332493,
       "kids": [
-        47382843,
-        47377963,
-        47381779
+        47376090,
+        47382868,
+        47381556,
+        47376709,
+        47377288
       ],
-      "score": 27,
-      "text": "Hi HN, I built Ink, a full stack deployment platform where the primary users are AI agents, not humans.<p>We all know AI can write code, but deploying them still requires a human to wire it up: hosting, databases, DNS, and secrets. Ink gives agents those tools directly.<p>The agent calls &quot;deploy&quot; and the platform auto-detects the framework, builds it, deploys it, and returns a live URL at *.ml.ink. Here&#x27;s a demo with Claude Code: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F6ZM_RrIaC0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=F6ZM_RrIaC0</a>.<p>What Ink does that I haven&#x27;t seen elsewhere:<p>- One agent skill for compute + databases + DNS + secrets + domains + usage + metrics + logs + scaling. The agent doesn&#x27;t juggle separate providers — one account, one auth, one set of tools.<p>- DNS zone delegation. Delegate a zone once (e.g. dev.acme.com) and agents create any subdomain instantly — no manual adding DNS records each time, no propagation wait.<p>- Multiple agents and humans share one workspace and collaborate on projects. I envision a future where many agents collaborate together. I&#x27;m working on a cool demo to share.<p>- Built-in git hosting. Agents push code and deploy without the human setting up GitHub first. No external account needed. (Of course if you&#x27;re a developer you can store code on GitHub — that&#x27;s the recommended pattern.)<p>You also have what you&#x27;d expect:\n- UI with service observability designed for humans (logs, metrics, DNS).\n- GitHub integration — push triggers auto-redeploy.\n- Per-minute billing for CPU, memory, and egress. No per-seat, no per-agent.\n- Error responses designed for LLMs. Structured reason codes with suggested next actions, not raw stack traces. When a deploy fails the agent reads the log, fixes it, and redeploys autonomously.<p>Try: <a href=\"https:&#x2F;&#x2F;ml.ink\" rel=\"nofollow\">https:&#x2F;&#x2F;ml.ink</a>\nFree $2 trial credits, no credit card. In case you want to try further here&#x27;s 20% code &quot;GOODFORTUNE&quot;.",
-      "time": 1773243543,
-      "title": "Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills",
+      "score": 35,
+      "time": 1773212965,
+      "title": "Michael Faraday: Scientist and Nonconformist (1996)",
       "type": "story",
-      "url": "https://ml.ink/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "amelius",
-      "descendants": 11,
-      "id": 47381473,
-      "kids": [
-        47383374,
-        47383061,
-        47381821,
-        47381830,
-        47382560,
-        47381714,
-        47381893
-      ],
-      "score": 14,
-      "time": 1773524196,
-      "title": "How \"Hardwired\" AI Will Destroy Nvidia's Empire and Change the World",
-      "type": "story",
-      "url": "https://medium.com/@mokrasar/the-last-chip-how-hardwired-ai-will-destroy-nvidias-empire-and-change-the-world-8da20571e706",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "url": "http://silas.psfc.mit.edu/Faraday/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "a24venka",
@@ -2406,25 +2427,42 @@
       "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
       "type": "story",
       "url": "https://www.getspine.ai/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "o4c",
-      "descendants": 7,
-      "id": 47332493,
+      "by": "2noame",
+      "descendants": 228,
+      "id": 47378399,
       "kids": [
-        47376090,
-        47382868,
-        47381556,
-        47376709,
-        47377288
+        47379146,
+        47379085,
+        47379491,
+        47380708,
+        47379763,
+        47379260,
+        47379556,
+        47380619,
+        47379464,
+        47382038,
+        47381226,
+        47382534,
+        47381148,
+        47379671,
+        47379511,
+        47379032,
+        47379180,
+        47380044,
+        47382626,
+        47380740,
+        47379549,
+        47379205
       ],
-      "score": 35,
-      "time": 1773212965,
-      "title": "Michael Faraday: Scientist and Nonconformist (1996)",
+      "score": 107,
+      "time": 1773506222,
+      "title": "UBI as a productivity dividend",
       "type": "story",
-      "url": "http://silas.psfc.mit.edu/Faraday/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "url": "https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "wjSgoWPm5bWAhXB",
@@ -2450,7 +2488,7 @@
       "title": "New 'negative light' technology hides data transfers in plain sight",
       "type": "story",
       "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "kilroy123",
@@ -2541,18 +2579,7 @@
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "type": "story",
       "url": "https://channelsurfer.tv",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "throwaway81523",
-      "descendants": 0,
-      "id": 47382567,
-      "score": 4,
-      "time": 1773531939,
-      "title": "UK Society of Authors launches logo to identify books written by humans not AI",
-      "type": "story",
-      "url": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "surprisetalk",
@@ -2575,42 +2602,7 @@
       "title": "You gotta think outside the hypercube",
       "type": "story",
       "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "2noame",
-      "descendants": 228,
-      "id": 47378399,
-      "kids": [
-        47379146,
-        47379085,
-        47379491,
-        47380708,
-        47379763,
-        47379260,
-        47379556,
-        47380619,
-        47379464,
-        47382038,
-        47381226,
-        47382534,
-        47381148,
-        47379671,
-        47379511,
-        47379032,
-        47379180,
-        47380044,
-        47382626,
-        47380740,
-        47379549,
-        47379205
-      ],
-      "score": 108,
-      "time": 1773506222,
-      "title": "UBI as a productivity dividend",
-      "type": "story",
-      "url": "https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "rambleraptor",
@@ -2628,7 +2620,7 @@
       "title": "AEP (API Design Standard and Tooling Ecosystem)",
       "type": "story",
       "url": "https://aep.dev/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "robinhouston",
@@ -2643,7 +2635,36 @@
       "title": "ArXiv is establishing itself as an independent nonprofit organization",
       "type": "story",
       "url": "https://jobs.chronicle.com/job/37961678/chief-executive-officer",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "ninadwrites",
+      "descendants": 127,
+      "id": 47380405,
+      "kids": [
+        47380488,
+        47380436,
+        47381527,
+        47380534,
+        47381663,
+        47380453,
+        47381954,
+        47381789,
+        47381498,
+        47380930,
+        47381490,
+        47381933,
+        47381488,
+        47380669,
+        47381290,
+        47380800
+      ],
+      "score": 152,
+      "time": 1773517609,
+      "title": "2026 tech layoffs reach 45,000 in March",
+      "type": "story",
+      "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "hammerbrostime",
@@ -2672,8 +2693,8 @@
         47370244,
         47376496,
         47374810,
-        47370326,
         47380382,
+        47370326,
         47376508,
         47373999,
         47379727,
@@ -2681,9 +2702,9 @@
         47370022,
         47373938,
         47369329,
+        47383104,
         47377762,
         47375305,
-        47383104,
         47377613,
         47370444,
         47377004,
@@ -2705,12 +2726,12 @@
         47379063,
         47370510,
         47369628,
-        47371787,
         47376997,
+        47371787,
         47375157,
         47376478,
-        47369933,
         47376005,
+        47369933,
         47370415,
         47375783,
         47374238,
@@ -2730,7 +2751,7 @@
       "title": "Digg is gone again",
       "type": "story",
       "url": "https://digg.com/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "ivzak",
@@ -2767,36 +2788,18 @@
       "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
       "type": "story",
       "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "ninadwrites",
-      "descendants": 127,
-      "id": 47380405,
-      "kids": [
-        47380488,
-        47380436,
-        47381527,
-        47380534,
-        47381663,
-        47380453,
-        47381954,
-        47381789,
-        47381498,
-        47380930,
-        47381490,
-        47381933,
-        47381488,
-        47380669,
-        47381290,
-        47380800
-      ],
-      "score": 152,
-      "time": 1773517609,
-      "title": "2026 tech layoffs reach 45,000 in March",
+      "by": "KnuthIsGod",
+      "descendants": 0,
+      "id": 47383558,
+      "score": 6,
+      "time": 1773540389,
+      "title": "US solar installations fall as Trump policies hit sector",
       "type": "story",
-      "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "url": "https://www.semafor.com/article/03/12/2026/us-solar-installations-fall-as-trump-policies-hit-sector",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "xbryanx",
@@ -2867,7 +2870,18 @@
       "title": "An old photo of a large BBS (2022)",
       "type": "story",
       "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "amrrs",
+      "descendants": 0,
+      "id": 47381489,
+      "score": 8,
+      "time": 1773524289,
+      "title": "ByteDance suspends launch of Seedance 2.0 after copyright disputes",
+      "type": "story",
+      "url": "https://www.reuters.com/technology/bytedance-suspends-launch-video-ai-model-after-copyright-disputes-information-2026-03-14/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "mipselaer",
@@ -2969,7 +2983,7 @@
       "title": "TUI Studio – visual terminal UI design tool",
       "type": "story",
       "url": "https://tui.studio/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "avionics-guy",
@@ -2993,8 +3007,8 @@
         47377287,
         47374226,
         47373720,
-        47369819,
         47378824,
+        47369819,
         47375954,
         47369575,
         47371006,
@@ -3009,8 +3023,8 @@
         47372924,
         47370469,
         47370315,
-        47369969,
         47375307,
+        47369969,
         47370438,
         47372002,
         47378657,
@@ -3027,7 +3041,7 @@
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
       "type": "story",
       "url": "https://github.com/TomBadash/MouseControl",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "microflash",
@@ -3194,7 +3208,7 @@
       "title": "Malus – Clean Room as a Service",
       "type": "story",
       "url": "https://malus.sh",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "cf100clunk",
@@ -3233,34 +3247,29 @@
         47367196,
         47368359
       ],
-      "score": 537,
+      "score": 536,
       "time": 1773418410,
       "title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
       "type": "story",
       "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "amrrs",
-      "descendants": 0,
-      "id": 47381489,
+      "by": "vasilyt",
+      "descendants": 8,
+      "id": 47378241,
+      "kids": [
+        47380410,
+        47378261,
+        47378535,
+        47378469
+      ],
       "score": 8,
-      "time": 1773524289,
-      "title": "ByteDance suspends launch of Seedance 2.0 after copyright disputes",
+      "time": 1773505400,
+      "title": "Show HN: KeyID – Free email and phone infrastructure for AI agents (MCP)",
       "type": "story",
-      "url": "https://www.reuters.com/technology/bytedance-suspends-launch-video-ai-model-after-copyright-disputes-information-2026-03-14/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "KnuthIsGod",
-      "descendants": 0,
-      "id": 47383558,
-      "score": 6,
-      "time": 1773540389,
-      "title": "US solar installations fall as Trump policies hit sector",
-      "type": "story",
-      "url": "https://www.semafor.com/article/03/12/2026/us-solar-installations-fall-as-trump-policies-hit-sector",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "url": "https://keyid.ai/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "tosh",
@@ -3320,24 +3329,7 @@
       "title": "Hammerspoon",
       "type": "story",
       "url": "https://github.com/Hammerspoon/hammerspoon",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
-    },
-    {
-      "by": "vasilyt",
-      "descendants": 8,
-      "id": 47378241,
-      "kids": [
-        47380410,
-        47378261,
-        47378535,
-        47378469
-      ],
-      "score": 8,
-      "time": 1773505400,
-      "title": "Show HN: KeyID – Free email and phone infrastructure for AI agents (MCP)",
-      "type": "story",
-      "url": "https://keyid.ai/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "tosh",
@@ -3381,7 +3373,7 @@
       "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
       "type": "story",
       "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "jensgk",
@@ -3392,7 +3384,7 @@
       "title": "Depth of Field Simulator",
       "type": "story",
       "url": "https://jherr.github.io/depth-of-field/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "barry-cotter",
@@ -3422,7 +3414,7 @@
       "title": "Our Experience with I-Ready",
       "type": "story",
       "url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "bzurak",
@@ -3437,7 +3429,7 @@
       "title": "Show HN: I built Wool, a lightweight distributed Python runtime",
       "type": "story",
       "url": "https://github.com/wool-labs/wool",
-      "fetched_at": "2026-03-15T02:45:08.315Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "vinhnx",
@@ -3468,25 +3460,7 @@
       "title": "Optimizing Content for Agents",
       "type": "story",
       "url": "https://cra.mr/optimizing-content-for-agents/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
-    },
-    {
-      "by": "_ananos_",
-      "descendants": 17,
-      "id": 47362487,
-      "kids": [
-        47365698,
-        47363999,
-        47365575,
-        47370860,
-        47368725
-      ],
-      "score": 73,
-      "time": 1773396534,
-      "title": "Gvisor on Raspbian",
-      "type": "story",
-      "url": "https://nubificus.co.uk/blog/gvisor-rpi5/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "CMLewis",
@@ -3517,7 +3491,25 @@
       "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
       "type": "story",
       "url": "https://www.runcaptain.com/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "_ananos_",
+      "descendants": 17,
+      "id": 47362487,
+      "kids": [
+        47365698,
+        47363999,
+        47365575,
+        47370860,
+        47368725
+      ],
+      "score": 73,
+      "time": 1773396534,
+      "title": "Gvisor on Raspbian",
+      "type": "story",
+      "url": "https://nubificus.co.uk/blog/gvisor-rpi5/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "edent",
@@ -3547,7 +3539,7 @@
       "title": "Lost Doctor Who episodes found",
       "type": "story",
       "url": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "tzury",
@@ -3573,8 +3565,8 @@
         47376796,
         47374322,
         47368423,
-        47369995,
         47379540,
+        47369995,
         47375087,
         47369047,
         47369613,
@@ -3627,13 +3619,13 @@
         47368391,
         47368521
       ],
-      "score": 354,
+      "score": 353,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;id_aa_carmack&#x2F;status&#x2F;2032460578669691171\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;id_aa_carmack&#x2F;status&#x2F;2032460578669691171</a>",
       "time": 1773424294,
       "title": "John Carmack about open source and anti-AI activists",
       "type": "story",
       "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "psibi",
@@ -3665,8 +3657,8 @@
         47328270,
         47373735,
         47376091,
-        47373284,
         47376554,
+        47373284,
         47373972,
         47374355,
         47375150,
@@ -3696,7 +3688,22 @@
       "title": "Emacs and Vim in the Age of AI",
       "type": "story",
       "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "twapi",
+      "descendants": 1,
+      "id": 47381436,
+      "kids": [
+        47382612,
+        47381519
+      ],
+      "score": 9,
+      "time": 1773523983,
+      "title": "Why DuckDuckGo is building its own web search index",
+      "type": "story",
+      "url": "https://insideduckduckgo.substack.com/p/duck-tales-why-duckduckgo-is-building",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "keepamovin",
@@ -3710,7 +3717,7 @@
       "title": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
       "type": "story",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "AlexeyBrin",
@@ -3728,22 +3735,36 @@
       "title": "The Forth Language [Byte Magazine Volume 05 Number 08] (1980)",
       "type": "story",
       "url": "https://archive.org/details/byte-magazine-1980-08",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "twapi",
-      "descendants": 1,
-      "id": 47381436,
-      "kids": [
-        47382612,
-        47381519
-      ],
-      "score": 9,
-      "time": 1773523983,
-      "title": "Why DuckDuckGo is building its own web search index",
+      "by": "RickJWagner",
+      "descendants": 0,
+      "id": 47382928,
+      "score": 10,
+      "time": 1773534760,
+      "title": "'Playing with fire': Jeffrey Epstein bankrolled Bill Gates reported girlfriend",
       "type": "story",
-      "url": "https://insideduckduckgo.substack.com/p/duck-tales-why-duckduckgo-is-building",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "url": "https://fortune.com/2026/03/14/epstein-bankrolled-bill-gates-mistress-doj-documents-playing-with-fire/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "stalfosknight",
+      "descendants": 3,
+      "id": 47382334,
+      "kids": [
+        47383368,
+        47383138,
+        47382417,
+        47382460,
+        47383236
+      ],
+      "score": 8,
+      "time": 1773530114,
+      "title": "Major investor 'shocked and sad' that the games industry is 'demonizing' gen AI",
+      "type": "story",
+      "url": "https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "medhir",
@@ -3771,9 +3792,9 @@
         47372785,
         47371570,
         47373530,
+        47381814,
         47370041,
         47373115,
-        47381814,
         47373411,
         47369141,
         47369324,
@@ -3818,7 +3839,7 @@
       "title": "Your phone is an entire computer",
       "type": "story",
       "url": "https://medhir.com/blog/your-phone-is-an-entire-computer",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "mindracer",
@@ -3858,25 +3879,33 @@
       "title": "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
       "type": "story",
       "url": "https://help.instagram.com/491565145294150",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "stalfosknight",
-      "descendants": 3,
-      "id": 47382334,
+      "by": "Tomte",
+      "descendants": 2,
+      "id": 47381175,
       "kids": [
-        47383368,
-        47383138,
-        47382417,
-        47382460,
-        47383236
+        47381667,
+        47381468
       ],
-      "score": 8,
-      "time": 1773530114,
-      "title": "Major investor 'shocked and sad' that the games industry is 'demonizing' gen AI",
+      "score": 12,
+      "time": 1773522459,
+      "title": "In search of Banksy, Reuters found the artist took on a new identity",
       "type": "story",
-      "url": "https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "url": "https://www.reuters.com/investigates/special-report/global-art-banksy/",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "rustoo",
+      "descendants": 0,
+      "id": 47377033,
+      "score": 7,
+      "time": 1773498361,
+      "title": "Nighttime tornadoes are 2.5 times more deadly",
+      "type": "story",
+      "url": "https://www.accuweather.com/en/severe-weather/nighttime-tornadoes-are-2-5-times-more-deadly-6-dangerous-myths-to-stop-believing/1871480",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "eatonphil",
@@ -3896,18 +3925,7 @@
       "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
       "type": "story",
       "url": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
-    },
-    {
-      "by": "rustoo",
-      "descendants": 0,
-      "id": 47377033,
-      "score": 7,
-      "time": 1773498361,
-      "title": "Nighttime tornadoes are 2.5 times more deadly",
-      "type": "story",
-      "url": "https://www.accuweather.com/en/severe-weather/nighttime-tornadoes-are-2-5-times-more-deadly-6-dangerous-myths-to-stop-believing/1871480",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "4diii",
@@ -3933,8 +3951,8 @@
         47349918,
         47349983,
         47349839,
-        47349722,
         47364090,
+        47349722,
         47349961,
         47349792,
         47354053,
@@ -3974,18 +3992,7 @@
       "title": "Are LLM merge rates not getting better?",
       "type": "story",
       "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
-    },
-    {
-      "by": "RickJWagner",
-      "descendants": 0,
-      "id": 47382928,
-      "score": 10,
-      "time": 1773534760,
-      "title": "'Playing with fire': Jeffrey Epstein bankrolled Bill Gates reported girlfriend",
-      "type": "story",
-      "url": "https://fortune.com/2026/03/14/epstein-bankrolled-bill-gates-mistress-doj-documents-playing-with-fire/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "avernet",
@@ -4015,8 +4022,8 @@
         47359162,
         47358717,
         47362457,
-        47358936,
         47372087,
+        47358936,
         47358802,
         47373734,
         47359864,
@@ -4027,8 +4034,8 @@
         47368772,
         47363111,
         47363112,
-        47359047,
         47363898,
+        47359047,
         47358696,
         47362159,
         47361489,
@@ -4066,22 +4073,22 @@
       "title": "Grief and the AI split",
       "type": "story",
       "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
-      "by": "Tomte",
-      "descendants": 2,
-      "id": 47381175,
+      "by": "jbraithwaite",
+      "descendants": 5,
+      "id": 47380035,
       "kids": [
-        47381667,
-        47381468
+        47381272,
+        47381437
       ],
-      "score": 12,
-      "time": 1773522459,
-      "title": "In search of Banksy, Reuters found the artist took on a new identity",
+      "score": 58,
+      "time": 1773515329,
+      "title": "Meta is reportedly laying off up to 20 percent of its staff",
       "type": "story",
-      "url": "https://www.reuters.com/investigates/special-report/global-art-banksy/",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "kernelrocks",
@@ -4113,22 +4120,7 @@
       "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
       "type": "story",
       "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
-    },
-    {
-      "by": "jbraithwaite",
-      "descendants": 5,
-      "id": 47380035,
-      "kids": [
-        47381272,
-        47381437
-      ],
-      "score": 58,
-      "time": 1773515329,
-      "title": "Meta is reportedly laying off up to 20 percent of its staff",
-      "type": "story",
-      "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     },
     {
       "by": "trashymctrash",
@@ -4136,15 +4128,15 @@
       "id": 47376169,
       "kids": [
         47376220,
-        47379088,
         47381404,
+        47379088,
         47378239,
         47381514,
         47378080,
         47377076,
         47377363,
-        47379644,
         47383036,
+        47379644,
         47378392,
         47377883,
         47376705,
@@ -4161,7 +4153,22 @@
       "time": 1773492723,
       "title": "Ask HN: Have you successfully treated forward head posture (\"nerd neck\")?",
       "type": "story",
-      "fetched_at": "2026-03-15T02:45:08.316Z"
+      "fetched_at": "2026-03-15T02:31:12.590Z"
+    },
+    {
+      "by": "paulpauper",
+      "descendants": 3,
+      "id": 47381553,
+      "kids": [
+        47382972,
+        47381909
+      ],
+      "score": 7,
+      "time": 1773524659,
+      "title": "What People Want from Our Schools Has Never Been Accomplished, Anywhere",
+      "type": "story",
+      "url": "https://freddiedeboer.substack.com/p/what-people-want-from-our-schools",
+      "fetched_at": "2026-03-15T02:31:12.590Z"
     }
   ],
   "failed_ids": []
