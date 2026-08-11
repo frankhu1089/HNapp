@@ -1,6 +1,8 @@
 {
   "date": "2026-08-11",
   "source": "topstories+beststories",
+  "raw_count": 120,
+  "filtered_count": 120,
   "items": [
     {
       "id": 49265051,
